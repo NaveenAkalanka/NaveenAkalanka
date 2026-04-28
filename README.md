@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00B4D8&center=true&vCenter=true&width=720&lines=Infrastructure+Engineer+%E2%80%A2+Cloud%2FDevOps;Building+tools.+Running+labs.+Shipping+things.;Linux+%E2%80%A2+Networking+%E2%80%A2+Containers+%E2%80%A2+Cloud;Agentic+Engineer+%E2%80%A2+VibeCoder" alt="Typing SVG" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00b4d8&height=180&section=header&text=Naveen%20Akalanka&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Linux%20%7C%20Network-Centric%20Infra%20Engineer%20%E2%86%92%20Cloud%2FDevOps&descAlignY=60&descSize=20&fontKey=Outfit" />
 
 <br/>
 
-# Naveen Akalanka
-
-**Linux/Network-Centric Infrastructure Engineer → Cloud/DevOps**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&pause=1500&color=00B4D8&center=true&vCenter=true&width=720&lines=Building+tools.+Running+labs.+Shipping+things.;Agentic+Engineer+%E2%80%A2+VibeCoder;Infrastructure+as+Code+%E2%80%A2+Cloud+%E2%80%A2+DevOps" alt="Typing SVG" /></a>
 
 🇱🇰 Sri Lanka &nbsp;·&nbsp; 💼 Open to Remote Opportunities
 
@@ -23,12 +22,29 @@
 
 ## 👋 About Me
 
-I'm an infrastructure engineer who started in networking and never stopped going deeper. I run a self-hosted home lab — Proxmox VE, TrueNAS, Docker, Linux VMs and LXC containers — not as a hobby, but as a real environment where I design, break, and fix systems. When existing tooling doesn't solve the problem, I build the tool myself.
+```yaml
+version: '3.8'
+services:
+  naveen_akalanka:
+    image: infra-engineer:latest
+    environment:
+      - FOCUS=Cloud, DevOps, Agentic Engineering
+      - HOMELAB=Proxmox VE, TrueNAS, Docker, Linux VMs
+      - DESIGN=Graphic Design, 3D Design
+    ports:
+      - "80:Idea"
+      - "443:Reality"
+    volumes:
+      - /brain/knowledge:/app/skills
+```
+
+I'm an infrastructure engineer who started in networking and never stopped going deeper. I run a self-hosted home lab — not as a hobby, but as a real environment where I design, break, and fix systems. When existing tooling doesn't solve the problem, I build the tool myself.
 
 I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure & AWS), Infrastructure as Code, and DevOps automation** — while keeping the low-level systems understanding that most cloud engineers skip. My design background means the tools I ship aren't just functional — they're polished.
 
-> 🔭 &nbsp;Currently leveling up: Cloud (Azure & AWS) · Kubernetes · Ansible · IaC  
-> 💬 &nbsp;Ask me about: Proxmox · Docker · Network Design · Linux · Self-Hosting · Agentic Engineering  
+> [!NOTE]
+> 🔭 &nbsp;**Currently leveling up:** Cloud (Azure & AWS) · Kubernetes · Ansible · IaC  
+> 💬 &nbsp;**Ask me about:** Proxmox · Docker · Network Design · Linux · Self-Hosting · Agentic Engineering  
 
 ---
 
@@ -36,47 +52,47 @@ I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure
 
 **⚙️ &nbsp;Infrastructure & Virtualization**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![LXC](https://img.shields.io/badge/LXC-333333?style=flat-square&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-0A0A0A?style=for-the-badge&logo=proxmox&logoColor=E57000)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0A0A?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Ansible](https://img.shields.io/badge/Ansible-0A0A0A?style=for-the-badge&logo=ansible&logoColor=EE0000)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0A0A0A?style=for-the-badge&logo=truenas&logoColor=0095D5)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0A0A0A?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![LXC](https://img.shields.io/badge/LXC-0A0A0A?style=for-the-badge&logoColor=white)
 
 **☁️ &nbsp;Cloud & DevOps**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0A0A0A?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Traefik](https://img.shields.io/badge/Traefik-0A0A0A?style=for-the-badge&logo=traefikproxy&logoColor=24A1C1)
+![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0A0A0A?style=for-the-badge&logo=nextcloud&logoColor=0082C9)
 
 **🌐 &nbsp;Networking & Security**
 
-![Nmap](https://img.shields.io/badge/Nmap-00B4D8?style=flat-square&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS%2FDHCP%2FVLANs-00B4D8?style=flat-square&logoColor=white)
-![ZFS](https://img.shields.io/badge/ZFS-2A2A72?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logoColor=00B4D8)
+![Wireshark](https://img.shields.io/badge/Wireshark-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Cisco](https://img.shields.io/badge/Cisco-0A0A0A?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![DNS](https://img.shields.io/badge/DNS%2FDHCP%2FVLANs-0A0A0A?style=for-the-badge&logoColor=00B4D8)
+![ZFS](https://img.shields.io/badge/ZFS-0A0A0A?style=for-the-badge&logoColor=00B4D8)
 
 **💻 &nbsp;Dev & Tooling**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB)
+![WebSockets](https://img.shields.io/badge/WebSockets-0A0A0A?style=for-the-badge&logoColor=white)
 
 **🎨 &nbsp;Design**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Graphic Design](https://img.shields.io/badge/Graphic_Design-00B4D8?style=flat-square&logoColor=white)
-![3D Design](https://img.shields.io/badge/3D_Design-8B5CF6?style=flat-square&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-0A0A0A?style=for-the-badge&logoColor=00B4D8)
+![3D Design](https://img.shields.io/badge/3D_Design-0A0A0A?style=for-the-badge&logoColor=8B5CF6)
 
 ---
 
@@ -210,7 +226,9 @@ No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer �
 
 ## 🤖 On Agentic Engineering
 
-I use AI as a force multiplier for my workflow, not as a replacement for engineering. The systems design, architecture, and problem-solving are strictly my domain. I use AI agents to rapidly translate my ideas into reality and accelerate execution. 
+> [!NOTE]  
+> **My AI Philosophy**  
+> I use AI as a force multiplier for my workflow, not as a replacement for engineering. The systems design, architecture, and problem-solving are strictly my domain. I use AI agents to rapidly translate my ideas into reality and accelerate execution. 
 
 By combining deep infrastructure knowledge with **Agentic Engineering**, I can explore multiple technical paths and approaches in a fraction of the time, evolving into a more comprehensive and effective engineer. I use this methodology to solve real, complex infrastructure problems I face on the job.
 
@@ -240,5 +258,9 @@ By combining deep infrastructure knowledge with **Agentic Engineering**, I can e
 <br/>
 
 <sub>⚡ Self-hosted · Open source · Always building</sub>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00b4d8&height=120&section=footer" />
 
 </div>

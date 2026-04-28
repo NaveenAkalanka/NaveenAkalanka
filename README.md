@@ -210,9 +210,9 @@ No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer �
 
 ## 🤖 On Agentic Engineering
 
-I use AI not as autocomplete — but as an orchestration layer. My approach: write deterministic scripts that handle execution reliably, and let AI agents handle the decision-making. When 90% accuracy compounds across 5 steps, you get 59% reliability. Push complexity into code; keep the agent focused on routing and judgment.
+I use AI as a force multiplier for my workflow, not as a replacement for engineering. The systems design, architecture, and problem-solving are strictly my domain. I use AI agents to rapidly translate my ideas into reality and accelerate execution. 
 
-I call this **Agentic Engineering** — and I use it to solve real infrastructure and workflow problems I actually face on the job.
+By combining deep infrastructure knowledge with **Agentic Engineering**, I can explore multiple technical paths and approaches in a fraction of the time, evolving into a more comprehensive and effective engineer. I use this methodology to solve real, complex infrastructure problems I face on the job.
 
 ---
 

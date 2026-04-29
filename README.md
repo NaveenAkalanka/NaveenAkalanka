@@ -22,15 +22,38 @@
 
 ## ⚡ Core Architecture
 
-<p align="center">
-<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:020617&height=180&text=Infrastructure%20Labs&desc=Proxmox%20•%20TrueNAS%20•%20Linux%20•%20LXC&fontColor=ffffff&descAlignY=70&fontSize=35&descSize=18&animation=twinkling&fontKey=Outfit&stroke=00b4d8&strokeWidth=2" />
-<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:020617&height=180&text=Cloud%20&%20DevOps&desc=Azure%20•%20AWS%20•%20Docker%20•%20Kubernetes&fontColor=ffffff&descAlignY=70&fontSize=35&descSize=18&animation=twinkling&fontKey=Outfit&stroke=00b4d8&strokeWidth=2" />
-</p>
+<table width="100%">
+<tr>
+<td width="60%">
 
-<p align="center">
-<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:020617&height=180&text=Agentic%20Engineering&desc=AI%20Force%20Multiplier%20•%20Systems%20Design&fontColor=ffffff&descAlignY=70&fontSize=35&descSize=18&animation=twinkling&fontKey=Outfit&stroke=00b4d8&strokeWidth=2" />
-<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:020617&height=180&text=UI%20&%20Graphic%20Design&desc=Figma%20•%20Photoshop%20•%203D%20Rendering&fontColor=ffffff&descAlignY=70&fontSize=35&descSize=18&animation=twinkling&fontKey=Outfit&stroke=00b4d8&strokeWidth=2" />
-</p>
+```yaml
+version: '3.8'
+services:
+  naveen_akalanka:
+    image: infra-engineer:latest
+    environment:
+      - FOCUS=Cloud, DevOps, Agentic Engineering
+      - HOMELAB=Proxmox VE, TrueNAS, Docker, Linux VMs
+      - DESIGN=Graphic Design, 3D Design
+    ports:
+      - "80:Idea"
+      - "443:Reality"
+    volumes:
+      - /brain/knowledge:/app/skills
+```
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:020617&height=120&text=System%20Status&desc=All%20Services%20Operational&fontColor=ffffff&descAlignY=70&fontSize=30&descSize=15&animation=twinkling&fontKey=Outfit&stroke=00b4d8&strokeWidth=2" width="100%" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=300&lines=Initializing+Container...;Loading+Infrastructure...;Starting+DevOps+Core...;System+Online." alt="Typing Sequence" />
+
+</td>
+</tr>
+</table>
 
 I'm an infrastructure engineer who started in networking and never stopped going deeper. I run a self-hosted home lab — not as a hobby, but as a real environment where I design, break, and fix systems. When existing tooling doesn't solve the problem, I build the tool myself.
 

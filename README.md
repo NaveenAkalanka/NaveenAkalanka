@@ -22,20 +22,36 @@
 
 ## ⚡ Core Architecture
 
-<p align="center">
-<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:020617&height=140&text=Environment&desc=infra-engineer:latest&fontColor=ffffff&descAlignY=75&fontSize=30&descSize=16&animation=twinkling&fontKey=Outfit&stroke=00b4d8&strokeWidth=2" />
-<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:020617&height=140&text=Focus&desc=Cloud%20•%20DevOps%20•%20Agentic%20Engineering&fontColor=ffffff&descAlignY=75&fontSize=30&descSize=15&animation=twinkling&fontKey=Outfit&stroke=00b4d8&strokeWidth=2" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Initializing+Environment...;Loading+Core+Systems...;Mapping+Ports+and+Volumes...;System+Ready." alt="Boot Sequence" />
+</div>
 
-<p align="center">
-<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:020617&height=140&text=Homelab&desc=Proxmox%20VE%20•%20TrueNAS%20•%20Docker%20•%20Linux&fontColor=ffffff&descAlignY=75&fontSize=30&descSize=15&animation=twinkling&fontKey=Outfit&stroke=00b4d8&strokeWidth=2" />
-<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:020617&height=140&text=Design&desc=Graphic%20Design%20•%203D%20Design&fontColor=ffffff&descAlignY=75&fontSize=30&descSize=16&animation=twinkling&fontKey=Outfit&stroke=00b4d8&strokeWidth=2" />
-</p>
+<br/>
 
-<p align="center">
-<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:020617&height=140&text=Ports&desc=80:Idea%20%E2%86%92%20443:Reality&fontColor=ffffff&descAlignY=75&fontSize=30&descSize=16&animation=twinkling&fontKey=Outfit&stroke=00b4d8&strokeWidth=2" />
-<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:020617&height=140&text=Volumes&desc=/brain/knowledge%20%E2%86%92%20/app/skills&fontColor=ffffff&descAlignY=75&fontSize=30&descSize=16&animation=twinkling&fontKey=Outfit&stroke=00b4d8&strokeWidth=2" />
-</p>
+<table>
+<tr>
+<td width="55%" valign="center">
+
+> ⚡ **`ENVIRONMENT`** &nbsp; `infra-engineer:latest`
+> 
+> 🎯 **`FOCUS`** &nbsp; Cloud • DevOps • Agentic Engineering
+> 
+> 🖧 **`HOMELAB`** &nbsp; Proxmox VE • TrueNAS • Docker • Linux VMs
+> 
+> 🎨 **`DESIGN`** &nbsp; Graphic Design • 3D Design
+> 
+> 🔌 **`PORTS`** &nbsp; `80:Idea` ⮑ `443:Reality`
+> 
+> 💾 **`VOLUMES`** &nbsp; `/brain/knowledge` ⮑ `/app/skills`
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=250&section=header&text=Systems%20Online&desc=All%20Clusters%20Operational&fontColor=ffffff&descAlignY=65&fontSize=35&descSize=16&animation=twinkling&fontKey=Outfit" width="100%" />
+
+</td>
+</tr>
+</table>
 
 I'm an infrastructure engineer who started in networking and never stopped going deeper. I run a self-hosted home lab — not as a hobby, but as a real environment where I design, break, and fix systems. When existing tooling doesn't solve the problem, I build the tool myself.
 

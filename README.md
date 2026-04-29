@@ -37,11 +37,26 @@
 > 🔌 **`PORTS`** &nbsp; `80:Idea` ⮑ `443:Reality`
 > 
 > 💾 **`VOLUMES`** &nbsp; `/brain/knowledge` ⮑ `/app/skills`
-
+> 
 </td>
 <td width="45%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=220&section=header&text=Naveen%20Akalanka&desc=Infrastructure%20&%20DevOps%20Engineer&fontColor=ffffff&descAlignY=65&fontSize=32&descSize=14&animation=twinkling&fontKey=Outfit" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=150&section=header&text=Naveen%20Akalanka&desc=Infrastructure%20&%20DevOps%20Engineer&fontColor=ffffff&descAlignY=65&fontSize=32&descSize=14&animation=twinkling&fontKey=Outfit" width="100%" />
+
+<br/><br/>
+
+<table width="100%">
+  <tr>
+    <td bgcolor="#0A0A0A" align="left">
+      &nbsp;🔴 🟡 🟢 &nbsp;&nbsp; <b><code>~ naveen@infra-lab</code></b>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0A0A0A" align="left">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00B4D8&width=350&height=50&lines=%24+ssh+naveen%40infra-lab.local;%24+docker+start+agentic-core;%3E+Mapping+80%3AIdea+to+443%3AReality...;%3E+All+systems+operational." alt="Terminal Sequence" />
+    </td>
+  </tr>
+</table>
 
 </td>
 </tr>

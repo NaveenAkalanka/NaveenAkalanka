@@ -22,45 +22,22 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="55%" valign="center">
-
-> ⚡ **`ENVIRONMENT`** &nbsp; `infra-engineer:latest`
-> 
-> 🎯 **`FOCUS`** &nbsp; Cloud • DevOps • Agentic Engineering
-> 
-> 🖧 **`HOMELAB`** &nbsp; Proxmox VE • TrueNAS • Docker • Linux VMs
-> 
-> 🎨 **`DESIGN`** &nbsp; Graphic Design • 3D Design
-> 
-> 🔌 **`PORTS`** &nbsp; `80:Idea` ⮑ `443:Reality`
-> 
-> 💾 **`VOLUMES`** &nbsp; `/brain/knowledge` ⮑ `/app/skills`
-> 
-</td>
-<td width="45%" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=150&section=header&text=Naveen%20Akalanka&desc=Infrastructure%20&%20DevOps%20Engineer&fontColor=ffffff&descAlignY=65&fontSize=32&descSize=14&animation=twinkling&fontKey=Outfit" width="100%" />
-
-<br/><br/>
-
+<div align="center">
 <table width="100%">
   <tr>
-    <td bgcolor="#0A0A0A" align="left">
-      &nbsp;🔴 🟡 🟢 &nbsp;&nbsp; <b><code>~ naveen@infra-lab</code></b>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#0A0A0A" align="left">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00B4D8&width=350&height=50&lines=%24+ssh+naveen%40infra-lab.local;%24+docker+start+agentic-core;%3E+Mapping+80%3AIdea+to+443%3AReality...;%3E+All+systems+operational." alt="Terminal Sequence" />
+    <td bgcolor="#0D1117" style="border: 1px solid #00B4D8; border-radius: 12px;">
+      <div style="padding: 12px; background-color: #161B22; border-radius: 10px 10px 0 0; border-bottom: 1px solid #1F2937;">
+        &nbsp;🔴 🟡 🟢 &nbsp;&nbsp; <b><code>terminal — naveen@infrastructure — 80x24</code></b>
+      </div>
+      <div style="padding: 25px;">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00B4D8&width=800&height=320&lines=%24+cat+profile.yml;ENVIRONMENT%3A+infra-engineer%3Alatest;FOCUS%3A+Cloud+%E2%80%A2+DevOps+%E2%80%A2+Agentic+Engineering;HOMELAB%3A+Proxmox+VE+%E2%80%A2+TrueNAS+%E2%80%A2+Docker;DESIGN%3A+Graphic+Design+%E2%80%A2+3D+Design;PORTS%3A+80%3AIdea+%E2%86%B1+443%3AReality;VOLUMES%3A+%2Fbrain%2Fknowledge+%E2%86%B1+%2Fapp%2Fskills;%24+whoami;Naveen+Akalanka;%24+status;Currently+building+the+future+of+Infra." alt="Animated Profile Terminal" />
+      </div>
     </td>
   </tr>
 </table>
+</div>
 
-</td>
-</tr>
-</table>
+<br/>
 
 I'm an infrastructure engineer who started in networking and never stopped going deeper. I run a self-hosted home lab — not as a hobby, but as a real environment where I design, break, and fix systems. When existing tooling doesn't solve the problem, I build the tool myself.
 

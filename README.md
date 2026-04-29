@@ -102,7 +102,9 @@ I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 &nbsp;[ScanEye](https://github.com/NaveenAkalanka/ScanEye)
+<a href="https://github.com/NaveenAkalanka/ScanEye"><img src="./Assets/Banners/ScanEye.png" width="100%" alt="ScanEye Banner"></a>
+
+### <img src="./Assets/ScanEye.svg" width="24" align="center" /> &nbsp;[ScanEye](https://github.com/NaveenAkalanka/ScanEye)
 **Advanced Network Scanning & Monitoring Tool**
 
 Web browsers can't touch your local network — so I built a bridge. ScanEye runs as a privileged Docker container (`network_mode: host`), uses Nmap for deep device discovery, and streams live results to a React dashboard via WebSockets. Rate-limited, Helmet-hardened, injection-resistant.
@@ -112,7 +114,9 @@ Web browsers can't touch your local network — so I built a bridge. ScanEye run
 </td>
 <td width="50%" valign="top">
 
-### 🌳 &nbsp;[NuxView](https://github.com/NaveenAkalanka/NuxView)
+<a href="https://github.com/NaveenAkalanka/NuxView"><img src="./Assets/Banners/NuxView.png" width="100%" alt="NuxView Banner"></a>
+
+### <img src="./Assets/NuxView.svg" width="24" align="center" /> &nbsp;[NuxView](https://github.com/NaveenAkalanka/NuxView)
 **Interactive Linux Directory Visualization Tool**
 
 `ls -la` shows you names. NuxView shows you *meaning*. Scans local filesystems and renders an interactive, node-based web UI where you can explore directory roles — not just paths. Built for learning environments and complex lab setups alike.
@@ -124,7 +128,9 @@ Web browsers can't touch your local network — so I built a bridge. ScanEye run
 <tr>
 <td width="50%" valign="top">
 
-### 📊 &nbsp;[ClusterEye](https://github.com/NaveenAkalanka/ClusterEye)
+<a href="https://github.com/NaveenAkalanka/ClusterEye"><img src="./Assets/Banners/ClusterEye.png" width="100%" alt="ClusterEye Banner"></a>
+
+### <img src="./Assets/ClusterEye.svg" width="24" align="center" /> &nbsp;[ClusterEye](https://github.com/NaveenAkalanka/ClusterEye)
 **Advanced Cluster Monitoring & Management Dashboard**
 
 Real-time monitoring for cluster environments. The architectural predecessor to ScanEye — and the project that exposed the browser sandboxing problem I later solved with a containerized split-architecture approach.
@@ -134,7 +140,9 @@ Real-time monitoring for cluster environments. The architectural predecessor to 
 </td>
 <td width="50%" valign="top">
 
-### 🤸 &nbsp;[PoseFit V2](https://github.com/NaveenAkalanka/PoseFit-V2)
+<a href="https://github.com/NaveenAkalanka/PoseFit-V2"><img src="./Assets/Banners/PoseFit.png" width="100%" alt="PoseFit Banner"></a>
+
+### <img src="./Assets/PoseFit.svg" width="24" align="center" /> &nbsp;[PoseFit V2](https://github.com/NaveenAkalanka/PoseFit-V2)
 **Body-Orientation-Invariant 3D Joint-Angle Estimation**
 
 Biomechanical angle estimation that stays accurate regardless of camera viewpoint, distance, or body rotation. Goes well beyond standard pose detection — this one maintains constant angle values even as the user moves freely.
@@ -146,7 +154,9 @@ Biomechanical angle estimation that stays accurate regardless of camera viewpoin
 <tr>
 <td width="50%" valign="top">
 
-### 🖱️ &nbsp;[ScrollSync](https://github.com/NaveenAkalanka/ScrollSync)
+<a href="https://github.com/NaveenAkalanka/ScrollSync"><img src="./Assets/Banners/ScrollSync.png" width="100%" alt="ScrollSync Banner"></a>
+
+### <img src="./Assets/ScrollSync.svg" width="24" align="center" /> &nbsp;[ScrollSync](https://github.com/NaveenAkalanka/ScrollSync)
 **Hands-Free Chrome Browsing Extension**
 
 Auto-scroll, smart click navigation, and gamepad controller support for Chrome. Built to solve a real accessibility and workflow convenience problem — because sometimes your hands should be free.
@@ -156,7 +166,9 @@ Auto-scroll, smart click navigation, and gamepad controller support for Chrome. 
 </td>
 <td width="50%" valign="top">
 
-### 🎵 &nbsp;[SerenityEcho](https://github.com/NaveenAkalanka/SerenityEcho)
+<a href="https://github.com/NaveenAkalanka/SerenityEcho"><img src="./Assets/Banners/SerenityEcho.png" width="100%" alt="SerenityEcho Banner"></a>
+
+### <img src="./Assets/SerenityEcho.svg" width="24" align="center" /> &nbsp;[SerenityEcho](https://github.com/NaveenAkalanka/SerenityEcho)
 **Privacy-First Offline Ambient Sound Mixer**
 
 No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer — because not every tool needs to phone home. Works entirely in the browser, no data leaves your device.

@@ -18,7 +18,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
 ## 👋 About Me
 
@@ -46,7 +46,7 @@ I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure
 > 🔭 &nbsp;**Currently leveling up:** Cloud (Azure & AWS) · Kubernetes · Ansible · IaC  
 > 💬 &nbsp;**Ask me about:** Proxmox · Docker · Network Design · Linux · Self-Hosting · Agentic Engineering  
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
 ## 🛠️ Tech Stack
 
@@ -94,7 +94,7 @@ I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure
 ![Graphic Design](https://img.shields.io/badge/Graphic_Design-0A0A0A?style=for-the-badge&logoColor=00B4D8)
 ![3D Design](https://img.shields.io/badge/3D_Design-0A0A0A?style=for-the-badge&logoColor=8B5CF6)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
 ## 🚀 Featured Projects
 
@@ -194,7 +194,7 @@ No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer �
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
 ## 📈 GitHub Activity & Stats
 
@@ -221,7 +221,7 @@ No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer �
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
 ## 🎓 Education & Recognition
 
@@ -240,7 +240,7 @@ No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer �
     └── Sep 2021 – Present · 4+ years
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
 ## 🤖 On Agentic Engineering
 
@@ -250,7 +250,7 @@ No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer �
 
 By combining deep infrastructure knowledge with **Agentic Engineering**, I can explore multiple technical paths and approaches in a fraction of the time, evolving into a more comprehensive and effective engineer. I use this methodology to solve real, complex infrastructure problems I face on the job.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
 ## 🐍 Contribution Activity
 
@@ -262,7 +262,7 @@ By combining deep infrastructure knowledge with **Agentic Engineering**, I can e
 </picture>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" />
 
 <div align="center">
 

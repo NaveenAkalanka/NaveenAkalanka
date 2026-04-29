@@ -196,22 +196,28 @@ No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer �
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity & Stats
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=NaveenAkalanka&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenAkalanka&bg_color=00000000&color=00b4d8&line=00b4d8&point=ffffff&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
+
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=NaveenAkalanka&show_icons=true&theme=github_dark&icon_color=00b4d8&title_color=00b4d8&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NaveenAkalanka&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=00b4d8&title_color=00b4d8&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </td>
-<td>
-<img src="https://streak-stats.demolab.com?user=NaveenAkalanka&theme=github-dark-blue&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=00b4d8" alt="GitHub Streak" height="165"/>
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com?user=NaveenAkalanka&background=00000000&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenAkalanka&layout=compact&theme=github_dark&title_color=00b4d8&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenAkalanka&layout=compact&bg_color=00000000&text_color=ffffff&title_color=00b4d8&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" />
 
 </div>
 

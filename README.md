@@ -209,7 +209,7 @@ No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer â
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NaveenAkalanka&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=00b4d8&title_color=00b4d8&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NaveenAkalanka&show_icons=true&bg_color=00000000&text_color=ffffff&icon_color=00b4d8&title_color=00b4d8&hide_border=true" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
 <img src="https://streak-stats.demolab.com?user=NaveenAkalanka&background=00000000&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />

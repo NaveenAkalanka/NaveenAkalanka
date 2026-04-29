@@ -20,13 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
-## ⚡ Core Architecture
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Initializing+Environment...;Loading+Core+Systems...;Mapping+Ports+and+Volumes...;System+Ready." alt="Boot Sequence" />
-</div>
-
-<br/>
+## 👋 About Me
 
 <table>
 <tr>
@@ -47,7 +41,7 @@
 </td>
 <td width="45%" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=250&section=header&text=Systems%20Online&desc=All%20Clusters%20Operational&fontColor=ffffff&descAlignY=65&fontSize=35&descSize=16&animation=twinkling&fontKey=Outfit" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=220&section=header&text=Naveen%20Akalanka&desc=Infrastructure%20&%20DevOps%20Engineer&fontColor=ffffff&descAlignY=65&fontSize=32&descSize=14&animation=twinkling&fontKey=Outfit" width="100%" />
 
 </td>
 </tr>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="350" viewBox="0 0 800 350">
+  <style>
+    .terminal-text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 16px;
+      fill: #00B4D8;
+    }
+    .cursor {
+      fill: #00B4D8;
+      animation: blink 1s step-end infinite;
+    }
+    @keyframes blink {
+      from, to { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    .line {
+      opacity: 0;
+      animation: typeIn 0.1s forwards;
+    }
+    @keyframes typeIn {
+      to { opacity: 1; }
+    }
+  </style>
+
+  <!-- Terminal Background -->
+  <rect width="800" height="350" rx="10" fill="#0D1117" stroke="#1F2937" stroke-width="1"/>
+  
+  <!-- Terminal Header -->
+  <rect width="800" height="35" rx="10" fill="#161B22"/>
+  <rect y="25" width="800" height="10" fill="#161B22"/>
+  <circle cx="20" cy="17.5" r="5" fill="#FF5F56"/>
+  <circle cx="40" cy="17.5" r="5" fill="#FFBD2E"/>
+  <circle cx="60" cy="17.5" r="5" fill="#27C93F"/>
+  <text x="400" y="22" font-family="Outfit, Arial" font-size="12" fill="#8B949E" text-anchor="middle">terminal — naveen@infrastructure — 80x24</text>
+
+  <!-- Terminal Content -->
+  <g class="terminal-text" transform="translate(20, 70)">
+    <g class="line" style="animation-delay: 0.5s;">
+      <text x="0" y="0">$ cat profile.yml</text>
+    </g>
+    <g class="line" style="animation-delay: 1.5s;">
+      <text x="0" y="25">ENVIRONMENT: infra-engineer:latest</text>
+    </g>
+    <g class="line" style="animation-delay: 2.5s;">
+      <text x="0" y="50">FOCUS: Cloud • DevOps • Agentic Engineering</text>
+    </g>
+    <g class="line" style="animation-delay: 3.5s;">
+      <text x="0" y="75">HOMELAB: Proxmox VE • TrueNAS • Docker</text>
+    </g>
+    <g class="line" style="animation-delay: 4.5s;">
+      <text x="0" y="100">DESIGN: Graphic Design • 3D Design</text>
+    </g>
+    <g class="line" style="animation-delay: 5.5s;">
+      <text x="0" y="125">PORTS: 80:Idea → 443:Reality</text>
+    </g>
+    <g class="line" style="animation-delay: 6.5s;">
+      <text x="0" y="150">VOLUMES: /brain/knowledge → /app/skills</text>
+    </g>
+    <g class="line" style="animation-delay: 7.5s;">
+      <text x="0" y="185">$ status --check</text>
+    </g>
+    <g class="line" style="animation-delay: 8.5s;">
+      <text x="0" y="210">Checking systems... [DONE]</text>
+    </g>
+    <g class="line" style="animation-delay: 9.5s;">
+      <text x="0" y="235">All systems operational.</text>
+    </g>
+    
+    <!-- Cursor -->
+    <rect class="cursor" x="0" y="245" width="10" height="20" style="animation-delay: 10s;">
+      <animate attributeName="x" values="0;220;220" keyTimes="0;0.9;1" dur="10s" fill="freeze" />
+      <animate attributeName="y" values="0;0;25;25;50;50;75;75;100;100;125;125;150;150;185;185;210;210;235;235;245" 
+               keyTimes="0;0.1;0.1;0.2;0.2;0.3;0.3;0.4;0.4;0.5;0.5;0.6;0.6;0.7;0.7;0.8;0.8;0.9;0.9;0.95;1" 
+               dur="10s" fill="freeze" />
+    </rect>
+  </g>
+</svg>

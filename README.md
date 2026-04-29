@@ -30,7 +30,7 @@
         &nbsp;🔴 🟡 🟢 &nbsp;&nbsp; <b><code>terminal — naveen@infrastructure — 80x24</code></b>
       </div>
       <div style="padding: 25px;">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00B4D8&width=800&height=320&lines=%24+cat+profile.yml;ENVIRONMENT%3A+infra-engineer%3Alatest;FOCUS%3A+Cloud+%E2%80%A2+DevOps+%E2%80%A2+Agentic+Engineering;HOMELAB%3A+Proxmox+VE+%E2%80%A2+TrueNAS+%E2%80%A2+Docker;DESIGN%3A+Graphic+Design+%E2%80%A2+3D+Design;PORTS%3A+80%3AIdea+%E2%86%B1+443%3AReality;VOLUMES%3A+%2Fbrain%2Fknowledge+%E2%86%B1+%2Fapp%2Fskills;%24+whoami;Naveen+Akalanka;%24+status;Currently+building+the+future+of+Infra." alt="Animated Profile Terminal" />
+        <img src="https://raw.githubusercontent.com/NaveenAkalanka/NaveenAkalanka/main/Assets/profile_animation.svg" alt="Animated Profile Terminal" width="100%" />
       </div>
     </td>
   </tr>

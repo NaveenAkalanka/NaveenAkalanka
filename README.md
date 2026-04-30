@@ -187,30 +187,21 @@
 
 ## <img src="https://api.iconify.design/ph/graduation-cap-bold.svg?color=%2300B4D8" width="26" /> Education & Recognition
 
-```
-[BSc]  BSc (Hons) Computer Networks — University of Wolverhampton
-        ├── First Class Honours
-        ├── [AWARD] Best Dissertation / Research Project Award · Oct 2025
-        └── Feb 2024 – Oct 2024
+<div align="center">
 
-[HND]  HND Computing (Networking & Telecommunications) — Pearson Education
-        ├── Distinction
-        └── Oct 2021 – Aug 2023
+<img src="./Assets/education_term.gif" width="100%" alt="Education Terminal" />
 
-[JOB]  System Administrator — JID Advertising Agency
-        ├── Network Troubleshooting · System Administration · Infrastructure
-        └── Sep 2021 – Present · 4+ years
-```
+</div>
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
 ## <img src="https://api.iconify.design/ph/robot-bold.svg?color=%2300B4D8" width="26" /> On Agentic Engineering
 
-> [!NOTE]  
-> **My AI Philosophy**  
-> I use AI as a force multiplier for my workflow, not as a replacement for engineering. The systems design, architecture, and problem-solving are strictly my domain. I use AI agents to rapidly translate my ideas into reality and accelerate execution. 
+<div align="center">
 
-By combining deep infrastructure knowledge with **Agentic Engineering**, I can explore multiple technical paths and approaches in a fraction of the time, evolving into a more comprehensive and effective engineer. I use this methodology to solve real, complex infrastructure problems I face on the job.
+<img src="./Assets/agentic_term.gif" width="100%" alt="Agentic Terminal" />
+
+</div>
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 

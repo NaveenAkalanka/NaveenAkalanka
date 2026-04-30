@@ -4,33 +4,11 @@
       font-family: 'Fira Code', 'Courier New', monospace;
       font-size: 14px;
     }
-    .command { fill: #27C93F; } /* Light Green for commands */
-    .output { fill: #00B4D8; }  /* Electric Blue for output */
-    .separator { fill: #1F2937; } /* Dark gray for separators */
+    .command { fill: #27C93F; }
+    .output { fill: #00B4D8; }
+    .separator { fill: #1F2937; }
     .status { fill: #ffffff; font-weight: bold; }
-    .cursor {
-      fill: #00B4D8;
-      animation: blink 1s step-end infinite;
-    }
-    @keyframes blink {
-      from, to { opacity: 1; }
-      50% { opacity: 0; }
-    }
-    .line {
-      opacity: 0;
-      animation: typeIn 0.1s forwards;
-    }
-    @keyframes typeIn {
-      to { opacity: 1; }
-    }
-    /* Main loop animation */
-    .main-loop {
-      animation: loopAnimation 25s infinite;
-    }
-    @keyframes loopAnimation {
-      0%, 95% { opacity: 1; }
-      96%, 100% { opacity: 0; }
-    }
+    .cursor { fill: #00B4D8; }
   </style>
 
   <!-- Terminal Background -->
@@ -44,91 +22,117 @@
   <circle cx="60" cy="17.5" r="5" fill="#27C93F"/>
   <text x="450" y="22" font-family="Outfit, Arial" font-size="12" fill="#8B949E" text-anchor="middle">terminal — naveen@infrastructure — 100x30</text>
 
-  <!-- Terminal Content -->
-  <g class="terminal-text main-loop" transform="translate(25, 70)">
+  <!-- Terminal Content Group (Loops every 25s) -->
+  <g class="terminal-text" transform="translate(25, 70)">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.95;0.96;0.99;1" dur="25s" repeatCount="indefinite" />
+
     <!-- whoami -->
-    <g class="line" style="animation-delay: 0.5s;">
-      <text x="0" y="0" class="command">&gt; whoami</text>
-    </g>
-    <g class="line" style="animation-delay: 1.5s;">
-      <text x="0" y="20" class="output">Name: Naveen Akalanka | Role: Cloud &amp; DevOps Engineer | Infrastructure Specialist</text>
-    </g>
-    <g class="line" style="animation-delay: 2.5s;">
-      <text x="0" y="40" class="output">Focus: High-availability architecture and agent-driven automation</text>
-    </g>
-    <g class="line" style="animation-delay: 3.0s;">
-      <text x="0" y="55" class="separator">---------------------------------------------------------------------------------------------------</text>
-    </g>
+    <text x="0" y="0" class="command" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="0.5s" fill="freeze" />
+      &gt; whoami
+    </text>
+    <text x="0" y="20" class="output" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="1.5s" fill="freeze" />
+      Name: Naveen Akalanka | Role: Cloud &amp; DevOps Engineer | Infrastructure Specialist
+    </text>
+    <text x="0" y="40" class="output" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.5s" fill="freeze" />
+      Focus: High-availability architecture and agent-driven automation
+    </text>
+    <text x="0" y="55" class="separator" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="3.0s" fill="freeze" />
+      ---------------------------------------------------------------------------------------------------
+    </text>
 
     <!-- system --info -->
-    <g class="line" style="animation-delay: 4.0s;">
-      <text x="0" y="75" class="command">&gt; system --info</text>
-    </g>
-    <g class="line" style="animation-delay: 5.0s;">
-      <text x="0" y="95" class="output">Education: BSc (Hons) Computer Networks — First Class Honours</text>
-    </g>
-    <g class="line" style="animation-delay: 6.0s;">
-      <text x="0" y="115" class="output">Experience: System Administrator at JID Advertising Agency</text>
-    </g>
-    <g class="line" style="animation-delay: 6.5s;">
-      <text x="0" y="130" class="separator">---------------------------------------------------------------------------------------------------</text>
-    </g>
+    <text x="0" y="75" class="command" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="4.0s" fill="freeze" />
+      &gt; system --info
+    </text>
+    <text x="0" y="95" class="output" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="5.0s" fill="freeze" />
+      Education: BSc (Hons) Computer Networks — First Class Honours
+    </text>
+    <text x="0" y="115" class="output" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="6.0s" fill="freeze" />
+      Experience: System Administrator at JID Advertising Agency
+    </text>
+    <text x="0" y="130" class="separator" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="6.5s" fill="freeze" />
+      ---------------------------------------------------------------------------------------------------
+    </text>
 
     <!-- technical skills -->
-    <g class="line" style="animation-delay: 7.5s;">
-      <text x="0" y="150" class="command">&gt; ls /skills/technical</text>
-    </g>
-    <g class="line" style="animation-delay: 8.5s;">
-      <text x="0" y="170" class="output">Cloud: Azure, AWS | DevOps: Kubernetes, Docker, n8n, and Linux</text>
-    </g>
-    <g class="line" style="animation-delay: 9.5s;">
-      <text x="0" y="190" class="output">Networking / Virtualization: Proxmox Clusters (HA), LXC, and VMs</text>
-    </g>
-    <g class="line" style="animation-delay: 10.0s;">
-      <text x="0" y="205" class="separator">---------------------------------------------------------------------------------------------------</text>
-    </g>
+    <text x="0" y="150" class="command" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="7.5s" fill="freeze" />
+      &gt; ls /skills/technical
+    </text>
+    <text x="0" y="170" class="output" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="8.5s" fill="freeze" />
+      Cloud: Azure, AWS | DevOps: Kubernetes, Docker, n8n, and Linux
+    </text>
+    <text x="0" y="190" class="output" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="9.5s" fill="freeze" />
+      Networking / Virtualization: Proxmox Clusters (HA), LXC, and VMs
+    </text>
+    <text x="0" y="205" class="separator" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="10.0s" fill="freeze" />
+      ---------------------------------------------------------------------------------------------------
+    </text>
 
     <!-- creative skills -->
-    <g class="line" style="animation-delay: 11.0s;">
-      <text x="0" y="225" class="command">&gt; ls /skills/creative</text>
-    </g>
-    <g class="line" style="animation-delay: 12.0s;">
-      <text x="0" y="245" class="output">Agentic Dev: AI-Agent Orchestration</text>
-    </g>
-    <g class="line" style="animation-delay: 13.0s;">
-      <text x="0" y="265" class="output">Design: UI/UX, Graphic Design, and 3D Modeling</text>
-    </g>
-    <g class="line" style="animation-delay: 13.5s;">
-      <text x="0" y="280" class="separator">---------------------------------------------------------------------------------------------------</text>
-    </g>
+    <text x="0" y="225" class="command" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="11.0s" fill="freeze" />
+      &gt; ls /skills/creative
+    </text>
+    <text x="0" y="245" class="output" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="12.0s" fill="freeze" />
+      Agentic Dev: AI-Agent Orchestration
+    </text>
+    <text x="0" y="265" class="output" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="13.0s" fill="freeze" />
+      Design: UI/UX, Graphic Design, and 3D Modeling
+    </text>
+    <text x="0" y="280" class="separator" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="13.5s" fill="freeze" />
+      ---------------------------------------------------------------------------------------------------
+    </text>
 
     <!-- mission -->
-    <g class="line" style="animation-delay: 14.5s;">
-      <text x="0" y="300" class="command">&gt; echo $MISSION</text>
-    </g>
-    <g class="line" style="animation-delay: 15.5s;">
-      <text x="0" y="320" class="output">"To build and scale resilient cloud infrastructure through rapid, agent-driven problem solving."</text>
-    </g>
-    <g class="line" style="animation-delay: 16.0s;">
-      <text x="0" y="335" class="separator">---------------------------------------------------------------------------------------------------</text>
-    </g>
+    <text x="0" y="300" class="command" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="14.5s" fill="freeze" />
+      &gt; echo $MISSION
+    </text>
+    <text x="0" y="320" class="output" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="15.5s" fill="freeze" />
+      "To build and scale resilient cloud infrastructure through rapid, agent-driven problem solving."
+    </text>
+    <text x="0" y="335" class="separator" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="16.0s" fill="freeze" />
+      ---------------------------------------------------------------------------------------------------
+    </text>
 
     <!-- status -->
-    <g class="line" style="animation-delay: 17.5s;">
-      <text x="0" y="355" class="status">[STATUS: ONLINE]</text>
-    </g>
-    <g class="line" style="animation-delay: 18.5s;">
-      <text x="0" y="380" class="command">$ status --check</text>
-    </g>
-    <g class="line" style="animation-delay: 19.5s;">
-      <text x="0" y="400" class="output">Checking systems... [DONE]</text>
-    </g>
-    <g class="line" style="animation-delay: 20.5s;">
-      <text x="0" y="420" class="status">All systems operational.</text>
-    </g>
+    <text x="0" y="355" class="status" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="17.5s" fill="freeze" />
+      [STATUS: ONLINE]
+    </text>
+    <text x="0" y="380" class="command" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="18.5s" fill="freeze" />
+      $ status --check
+    </text>
+    <text x="0" y="400" class="output" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="19.5s" fill="freeze" />
+      Checking systems... [DONE]
+    </text>
+    <text x="0" y="420" class="status" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="20.5s" fill="freeze" />
+      All systems operational.
+    </text>
     
     <!-- Cursor -->
     <rect class="cursor" x="0" y="430" width="10" height="20">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
       <animate attributeName="y" values="0;20;40;55;75;95;115;130;150;170;190;205;225;245;265;280;300;320;335;355;380;400;420;430" 
                keyTimes="0;0.06;0.1;0.12;0.16;0.2;0.24;0.26;0.3;0.34;0.38;0.4;0.44;0.48;0.52;0.54;0.58;0.62;0.64;0.7;0.74;0.78;0.82;1" 
                dur="25s" repeatCount="indefinite" />

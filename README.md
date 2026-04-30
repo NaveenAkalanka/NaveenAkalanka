@@ -23,21 +23,18 @@
 ## 👋 About Me
 
 <div align="center">
-<table width="100%">
-  <tr>
-    <td bgcolor="#0D1117" style="border: 1px solid #00B4D8; border-radius: 12px;">
-      <div style="padding: 12px; background-color: #161B22; border-radius: 10px 10px 0 0; border-bottom: 1px solid #1F2937;">
-        &nbsp;🔴 🟡 🟢 &nbsp;&nbsp; <b><code>terminal — naveen@infrastructure — 100x30</code></b>
-      </div>
-      <div style="padding: 25px;">
-        <p align="center">
-          <img src="./Assets/profile_intro.svg" alt="Animated Profile Terminal" width="100%" />
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:161B22&height=40&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20%20terminal%20%E2%80%94%20naveen%40infrastructure%20%E2%80%94%20100x30&fontColor=8B949E&fontSize=13&fontKey=Fira+Code&stroke=00B4D8&strokeWidth=1" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=300&text=%20&stroke=00B4D8&strokeWidth=1" width="100%" style="margin-top:-4px;" />
+
 </div>
+
+<div align="center" style="margin-top:-304px; position:relative;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2000&pause=800&color=27C93F&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=280&lines=%3E+whoami;Name%3A+Naveen+Akalanka+%7C+Role%3A+Cloud+%26+DevOps+Engineer;Focus%3A+High-availability+arch+%26+agent-driven+automation;%3E+system+--info;Education%3A+BSc+(Hons)+Computer+Networks+-+First+Class+Honours;Experience%3A+System+Administrator+%40+JID+Advertising;%3E+ls+%2Fskills%2Ftechnical;Cloud%3A+Azure%2C+AWS+%7C+DevOps%3A+Kubernetes%2C+Docker%2C+n8n%2C+Linux;Networking+%2F+Virtualization%3A+Proxmox+Clusters+(HA)%2C+LXC%2C+VMs;%3E+ls+%2Fskills%2Fcreative;Agentic+Dev%3A+AI-Agent+Orchestration;Design%3A+UI%2FUX%2C+Graphic+Design%2C+3D+Modeling;%3E+echo+%24MISSION;%22To+build+%26+scale+resilient+infra+through+agent-driven+problem+solving.%22;%5BSTATUS%3A+ONLINE%5D+--+All+systems+operational." alt="Terminal Animation" width="100%" />
+</div>
+
+<br/>
 
 <br/>
 

@@ -20,7 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
-## 👋 About Me
+## <img src="https://api.iconify.design/ph/user-circle-bold.svg?color=%2300B4D8" width="26" /> About Me
 
 <div align="center">
 
@@ -37,14 +37,14 @@ I'm an infrastructure engineer who started in networking and never stopped going
 I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure & AWS), Infrastructure as Code, and DevOps automation** — while keeping the low-level systems understanding that most cloud engineers skip. My design background means the tools I ship aren't just functional — they're polished.
 
 > [!NOTE]
-> 🔭 &nbsp;**Currently leveling up:** Cloud (Azure & AWS) · Kubernetes · Ansible · IaC  
-> 💬 &nbsp;**Ask me about:** Proxmox · Docker · Network Design · Linux · Self-Hosting · Agentic Engineering  
+> <img src="https://api.iconify.design/ph/arrow-up-bold.svg?color=%2300B4D8" width="14" /> &nbsp;**Currently leveling up:** Cloud (Azure & AWS) · Kubernetes · Ansible · IaC  
+> <img src="https://api.iconify.design/ph/chat-circle-text-bold.svg?color=%2300B4D8" width="14" /> &nbsp;**Ask me about:** Proxmox · Docker · Network Design · Linux · Self-Hosting · Agentic Engineering  
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/ph/wrench-bold.svg?color=%2300B4D8" width="26" /> Tech Stack
 
-**⚙️ &nbsp;Infrastructure & Virtualization**
+**<img src="https://api.iconify.design/ph/server-bold.svg?color=%2300B4D8" width="18" /> &nbsp;Infrastructure & Virtualization**
 
 ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-0A0A0A?style=for-the-badge&logo=proxmox&logoColor=E57000)
@@ -55,7 +55,7 @@ I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-0A0A0A?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![LXC](https://img.shields.io/badge/LXC-0A0A0A?style=for-the-badge&logoColor=white)
 
-**☁️ &nbsp;Cloud & DevOps**
+**<img src="https://api.iconify.design/ph/cloud-bold.svg?color=%2300B4D8" width="18" /> &nbsp;Cloud & DevOps**
 
 ![Azure](https://img.shields.io/badge/Azure-0A0A0A?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
@@ -65,7 +65,7 @@ I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0A0A0A?style=for-the-badge&logo=nextcloud&logoColor=0082C9)
 
-**🌐 &nbsp;Networking & Security**
+**<img src="https://api.iconify.design/ph/network-bold.svg?color=%2300B4D8" width="18" /> &nbsp;Networking & Security**
 
 ![Nmap](https://img.shields.io/badge/Nmap-0A0A0A?style=for-the-badge&logoColor=00B4D8)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0A0A0A?style=for-the-badge&logo=wireshark&logoColor=1679A7)
@@ -73,7 +73,7 @@ I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure
 ![DNS](https://img.shields.io/badge/DNS%2FDHCP%2FVLANs-0A0A0A?style=for-the-badge&logoColor=00B4D8)
 ![ZFS](https://img.shields.io/badge/ZFS-0A0A0A?style=for-the-badge&logoColor=00B4D8)
 
-**💻 &nbsp;Dev & Tooling**
+**<img src="https://api.iconify.design/ph/code-bold.svg?color=%2300B4D8" width="18" /> &nbsp;Dev & Tooling**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -82,7 +82,7 @@ I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0A0A0A?style=for-the-badge&logoColor=white)
 
-**🎨 &nbsp;Design**
+**<img src="https://api.iconify.design/ph/paint-brush-broad-bold.svg?color=%2300B4D8" width="18" /> &nbsp;Design**
 
 ![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Graphic Design](https://img.shields.io/badge/Graphic_Design-0A0A0A?style=for-the-badge&logoColor=00B4D8)
@@ -90,7 +90,7 @@ I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
-## 🚀 Featured Projects
+## <img src="https://api.iconify.design/ph/rocket-launch-bold.svg?color=%2300B4D8" width="26" /> Featured Projects
 
 <table>
 <tr>
@@ -174,7 +174,7 @@ No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer �
 </table>
 
 <details>
-<summary><b>📦 More Projects</b></summary>
+<summary><b><img src="https://api.iconify.design/ph/folder-open-bold.svg?color=%2300B4D8" width="16" /> More Projects</b></summary>
 
 <br/>
 
@@ -190,7 +190,7 @@ No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer �
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
-## 📈 GitHub Activity & Stats
+## <img src="https://api.iconify.design/ph/chart-line-up-bold.svg?color=%2300B4D8" width="26" /> GitHub Activity & Stats
 
 <div align="center">
 
@@ -217,26 +217,26 @@ No signups. No paywalls. No cloud. A fully offline-capable ambient sound mixer �
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
-## 🎓 Education & Recognition
+## <img src="https://api.iconify.design/ph/graduation-cap-bold.svg?color=%2300B4D8" width="26" /> Education & Recognition
 
 ```
-🎓  BSc (Hons) Computer Networks — University of Wolverhampton
-    ├── First Class Honours
-    ├── 🏆 Best Dissertation / Research Project Award · Oct 2025
-    └── Feb 2024 – Oct 2024
+[BSc]  BSc (Hons) Computer Networks — University of Wolverhampton
+        ├── First Class Honours
+        ├── [AWARD] Best Dissertation / Research Project Award · Oct 2025
+        └── Feb 2024 – Oct 2024
 
-🎓  HND Computing (Networking & Telecommunications) — Pearson Education
-    ├── Distinction
-    └── Oct 2021 – Aug 2023
+[HND]  HND Computing (Networking & Telecommunications) — Pearson Education
+        ├── Distinction
+        └── Oct 2021 – Aug 2023
 
-💼  System Administrator — JID Advertising Agency
-    ├── Network Troubleshooting · System Administration · Infrastructure
-    └── Sep 2021 – Present · 4+ years
+[JOB]  System Administrator — JID Advertising Agency
+        ├── Network Troubleshooting · System Administration · Infrastructure
+        └── Sep 2021 – Present · 4+ years
 ```
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
-## 🤖 On Agentic Engineering
+## <img src="https://api.iconify.design/ph/robot-bold.svg?color=%2300B4D8" width="26" /> On Agentic Engineering
 
 > [!NOTE]  
 > **My AI Philosophy**  
@@ -246,7 +246,7 @@ By combining deep infrastructure knowledge with **Agentic Engineering**, I can e
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
-## 🐍 Contribution Activity
+## <img src="https://api.iconify.design/ph/git-commit-bold.svg?color=%2300B4D8" width="26" /> Contribution Activity
 
 <div align="center">
 <picture>

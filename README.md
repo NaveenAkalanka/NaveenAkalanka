@@ -44,7 +44,7 @@ I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure
 
 ## <img src="https://api.iconify.design/ph/wrench-bold.svg?color=%2300B4D8" width="26" /> Tech Stack
 
-**<img src="https://api.iconify.design/ph/server-bold.svg?color=%2300B4D8" width="18" /> &nbsp;Infrastructure & Virtualization**
+**<img src="https://api.iconify.design/ph/cpu-bold.svg?color=%2300B4D8" width="18" /> &nbsp;Infrastructure & Virtualization**
 
 ![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-0A0A0A?style=for-the-badge&logo=proxmox&logoColor=E57000)

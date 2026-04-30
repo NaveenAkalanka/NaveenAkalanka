@@ -34,11 +34,14 @@
 
 I'm an infrastructure engineer who started in networking and never stopped going deeper. I run a self-hosted home lab — not as a hobby, but as a real environment where I design, break, and fix systems. When existing tooling doesn't solve the problem, I build the tool myself.
 
-I'm currently evolving from a solid network/Linux foundation into **Cloud (Azure & AWS), Infrastructure as Code, and DevOps automation** — while keeping the low-level systems understanding that most cloud engineers skip. My design background means the tools I ship aren't just functional — they're polished.
+### The Intent of Invention
+I view engineering as a creative pursuit of invention, driven by a desire to solve complex problems through technology. My focus is on the language of interconnected systems—understanding how data flows and ensuring every layer of infrastructure is built with purpose.
 
-> [!NOTE]
-> <img src="https://api.iconify.design/ph/arrow-up-bold.svg?color=%2300B4D8" width="14" /> &nbsp;**Currently leveling up:** Cloud (Azure & AWS) · Kubernetes · Ansible · IaC  
-> <img src="https://api.iconify.design/ph/chat-circle-text-bold.svg?color=%2300B4D8" width="14" /> &nbsp;**Ask me about:** Proxmox · Docker · Network Design · Linux · Self-Hosting · Agentic Engineering  
+### The Systems Laboratory
+I treat my high-availability Proxmox home lab as a rigorous R&D environment to design, break, and harden systems. This hands-on approach ensures that my work in Azure, AWS, and DevOps is backed by a deep understanding of the underlying layers that keep modern applications running.
+
+### Orchestration & Design
+I leverage AI agents as productivity multipliers to architect solutions and streamline the problem-solving process. By integrating a professional background in UI and 3D design, I ensure that the technical tools I ship are both functionally robust and visually polished.
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 

@@ -31,7 +31,7 @@
       </div>
       <div style="padding: 25px;">
         <p align="center">
-          <img src="./Assets/profile_animation.svg" alt="Animated Profile Terminal" width="100%" />
+          <img src="./Assets/profile_intro.svg" alt="Animated Profile Terminal" width="100%" />
         </p>
       </div>
     </td>

@@ -1,0 +1,810 @@
+Cover photo
+Naveen Akalanka
+
+System Administrator | IT Infrastructure & Networking | Linux, Virtualization & Troubleshooting | Proxmox, Docker, DNS | BSc (Hons) Computer Networks
+
+Angoda, Western Province, Sri Lanka
+
+·
+
+Contact info
+
+JID Advertising Agency
+
+University of Wolverhampton
+
+500+ connections
+Add section
+
+    Open to work
+
+    Angoda | On-site · Hybrid · Remote
+
+    Show details
+
+Suggested for you
+
+Private to you
+
+Naveen, increase your visibility and credibility
+
+Stand out with a custom call-to-action, multiple cover photos, and more. Subscribers see up to 13x more profile views.
+
+MUHAMMAD and millions of other members use Premium
+Upgrade my plan
+Analytics
+
+Private to you
+
+76 profile views
+
+Discover who’s viewed your profile.
+
+0 post impressions
+
+Start a post to increase engagement.
+
+Past 7 days
+
+11 search appearances
+
+See how often you appear in search results.
+Show all
+About
+
+As a kid, I dreamed of being an inventor, creating countless inventions across various fields. This passion led me to pursue mechatronics engineering. However, during my studies, I felt something was missing. My excitement returned when I discovered computer networking during a study session in my school's IT lab. Understanding how interconnected systems communicate sparked a deep interest in me.
+,
+This newfound passion for networking filled the void I felt in mechatronics. It involves problem-solving, connecting systems, and seeing the immediate results of my work—elements that truly excite me. I am currently a final-year BSc in Computer Networks student with an HND in Computing. My areas of interest include Network Design, Routing and Switching, Server/Network Virtualization, and Data Center Management. I'm constantly conducting personal projects to develop my skills further, which you can explore on my LinkedIn profile.
+
+In addition to my studies, I work as a senior graphic designer and system administrator at a advertising agency in Sri Lanka. This role helps me support my education financially, given the current economic situation here. While interning at a major IT company is my goal, financial stability is my current priority.
+
+I always try to thrive in active, hardware-involved environments and enjoy collaborating with others. My journey has been driven by a desire to explore, learn, and solve complex problems.
+
+Feel free to connect with me and check out my projects on my LinkedIn profile. Since I'm currently working on a project to host my portfolio website on my own hardware. Until then, let's connect and discuss how we can collaborate or share insights into the ever-evolving field of computer networking.
+
+Top skills
+
+Network Engineering • Networking • Network Design • Network Administration • Computer Network Operations
+Activity
+
+996 followers
+Create a post
+Posts
+Comments
+Videos
+Images
+
+    View Naveen Akalanka’s profile
+
+    Naveen Akalanka reposted this
+    View company: Hacking Articles
+
+    Hacking Articles
+
+    Register
+
+    1mo • 
+
+    Pic of the Day
+
+    #infosec #cybersecurity #cybersecuritytips #pentesting #cybersecurityawareness #informationsecurity
+    View image
+
+    Jaliya Dissanayake and 2,053 others reacted
+    Jaliya Dissanayake and 2,053 others
+
+    50 comments
+    50 comments
+
+    •
+
+    57 reposts
+    57 reposts
+    Comment
+    Send
+    View Naveen Akalanka’s profile
+
+    Naveen Akalanka reposted this
+    View Christophe Parisel’s profile
+
+    Christophe Parisel
+
+     
+     • 3rd+
+
+    Senior Cloud security architect at Société Générale
+
+    1mo • Edited • 
+
+    When BitNet was announced in 2023, it made sensation: glad to see it finally open-sourced! 😍 
+
+    Original paper here in case you missed it 👉 https://lnkd.in/ehW2MKWp
+    View Matthieu Garin’s profile
+
+    Matthieu Garin
+
+     
+     • 2nd
+
+    Partner - Wavestone | Global Cybersecurity Practice Leader | US
+
+    1mo • Edited • 
+
+    🚨📢 Omg... Microsoft just broke the "GPU required" rule for #AI. Everything is moving sooooo fast!
+
+    They’ve open-sourced #BitNet, a framework that runs a 100B parameter LLM on a single CPU. No $50k hardware. No cloud. Just your laptop https://lnkd.in/e3gTiptp
+
+    ➡️ The secret: Instead of storing weights in 32-bit or 16-bit floats, BitNet uses only 1.58 bits. It was trained on 4 trillion tokens and benchmarks competitively against full-precision models of the same size.
+
+    Three massive wins:
+    1️⃣ Privacy: Runs completely offline 🌐
+    2️⃣ Savings: No more cloud API costs 💵
+    3️⃣ Mobility: AI runs on your smartphone 📲
+
+    36 reactions
+    36
+
+    3 comments
+    3 comments
+
+    •
+
+    4 reposts
+    4 reposts
+    Comment
+    Send
+    View Naveen Akalanka’s profile
+
+    Naveen Akalanka
+
+     
+     • You
+
+    System Administrator | IT Infrastructure & Networking | Linux, Virtualization & Troubleshooting | Proxmox, Docker, DNS | BSc (Hons) Computer Networks
+
+    2mo • 
+
+    Project: 𝗦𝗰𝗮𝗻𝗘𝘆𝗲
+
+    I like building tools to solve problems I personally run into while working with systems and projects.
+
+    When building web-based monitoring tools (like my ClusterEye project), I hit a hard technical wall: web browsers are sandboxed. They cannot directly access the local network to scan for devices or run speed tests. I needed complete network visibility without compromising on the security or convenience of a web interface.
+
+    To address this, I built ScanEye — a lightweight, Dockerized network monitoring tool that bridges the gap between browser security and network accessibility.
+
+    The tool runs as a secure container on your local network, utilizing Nmap for deep scanning and speed testing, while serving a responsive, real-time dashboard to the user. It solves the browser limitation by decoupling the scanning engine from the frontend interface.
+
+    The project is fully deployable. Anyone can spin it up via Docker in seconds to monitor their home lab, discover devices, and visualize network performance.
+
+    What this project helped me practice:
+
+    • Overcoming browser sandboxing limits via split architecture
+    • Managing Docker Host Networking for low-level device access
+    • Hardening Node.js APIs (Rate limiting, Helmet, Input validation)
+    • Implementing real-time data flow with WebSockets
+
+    Tech used: 𝘙𝘦𝘢𝘤𝘵, 𝘕𝘰𝘥𝘦.𝘫𝘴, 𝘋𝘰𝘤𝘬𝘦𝘳, 𝘕𝘮𝘢𝘱, 𝘞𝘦𝘣𝘚𝘰𝘤𝘬𝘦𝘵𝘴
+
+    𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀:
+
+    Documentation and deployment guide:
+    👉 https://lnkd.in/dfgetWxg
+
+    Source code (open for learning and use):
+    👉 https://lnkd.in/d8UrRGED
+
+    Docker Image:
+    👉 https://lnkd.in/dMnbi-Vz
+
+    #ProblemSolving #BuildInPublic #OpenSource #DevOps #Networking #Docker
+
+    Janith Jayarathna and 1 other reacted
+    Janith Jayarathna and 1 other
+    Comment
+    Send
+    View Naveen Akalanka’s profile
+
+    Naveen Akalanka reposted this
+    View Dharamveer prasad’s profile
+
+    Dharamveer prasad
+
+     
+     • 2nd
+
+    Application Security Engineer | Ethical Hacker | Helping Companies Identify & Fix Critical Vulnerabilities | Top Cybersecurity Voice |            India’s Top 100 Cybersecurity Influencers 2025 #CF100 | 78k+ followers
+
+    3mo • 
+
+    100% FREE Cybersecurity Certification – LIMITED TIME
+    #ISC2 Certified in Cybersecurity (CC) — Training + Exam FREE!
+
+    If you want to break into cybersecurity, this is one of the best limited-time opportunities you’ll ever get 👇
+
+     ISC2 is offering the full CC certification path FREE under their global “One Million Certified” program — but this offer may end anytime and seats fill fast.
+
+    What’s FREE right now:
+    > Official ISC2 self-paced CC training.
+    > Free CC Exam Voucher.
+    > Digital badge when you pass.
+    > No experience required.
+
+    Claim it before the offer closes:
+    https://lnkd.in/d6-nXC89
+
+    Why CC matters:
+     Globally recognized cybersecurity certification.
+     Ideal for entry-level roles (SOC, analyst, junior security roles).
+     Adds strong credibility to your resume & LinkedIn profile.
+     Builds core security fundamentals.
+
+    🚀 If you're serious about starting a cybersecurity career, don’t miss this limited-time chance.
+
+    #Cybersecurity #ISC2 #CC #FreeCertification #LimitedTimeOffer
+    #InfoSec #ITTraining #CareerGrowth #LearningNeverStops #CISSP
+    View image
+
+    Lahiru Weerakoon and 147 others reacted
+    Lahiru Weerakoon and 147 others
+
+    10 comments
+    10 comments
+
+    •
+
+    37 reposts
+    37 reposts
+    Comment
+    Send
+    View Naveen Akalanka’s profile
+
+    Naveen Akalanka
+
+     
+     • You
+
+    System Administrator | IT Infrastructure & Networking | Linux, Virtualization & Troubleshooting | Proxmox, Docker, DNS | BSc (Hons) Computer Networks
+
+    3mo • 
+
+    𝘾𝘿𝙉𝙨 𝙎𝙚𝙚 𝙔𝙤𝙪𝙧 𝙏𝙧𝙖𝙛𝙛𝙞𝙘 𝘽𝙚𝙛𝙤𝙧𝙚 𝙔𝙤𝙪𝙧 𝙎𝙚𝙧𝙫𝙚𝙧 𝘿𝙤𝙚𝙨
+
+    𝘓𝘦𝘵’𝘴 𝘴𝘵𝘢𝘳𝘵 𝘴𝘪𝘮𝘱𝘭𝘦....
+    𝘞𝘩𝘦𝘯 𝘺𝘰𝘶 𝘵𝘺𝘱𝘦 𝘢 𝘸𝘦𝘣𝘴𝘪𝘵𝘦 𝘢𝘥𝘥𝘳𝘦𝘴𝘴 𝘪𝘯𝘵𝘰 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳, 𝘸𝘩𝘢𝘵 𝘥𝘰 𝘺𝘰𝘶 𝘵𝘩𝘪𝘯𝘬 𝘩𝘢𝘱𝘱𝘦𝘯𝘴?
+
+    𝘔𝘰𝘴𝘵 𝘱𝘦𝘰𝘱𝘭𝘦 𝘢𝘴𝘴𝘶𝘮𝘦: 👉 𝘉𝘳𝘰𝘸𝘴𝘦𝘳 → 𝘚𝘦𝘳𝘷𝘦𝘳 → 𝘙𝘦𝘴𝘱𝘰𝘯𝘴𝘦, 𝘛𝘩𝘢𝘵 𝘶𝘴𝘦𝘥 𝘵𝘰 𝘣𝘦 𝘵𝘳𝘶𝘦. 𝘉𝘶𝘵 𝘪𝘯 𝘮𝘰𝘥𝘦𝘳𝘯 𝘸𝘦𝘣 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴, 𝘵𝘩𝘦𝘳𝘦’𝘴 𝘢𝘯 𝘪𝘮𝘱𝘰𝘳𝘵𝘢𝘯𝘵 𝘭𝘢𝘺𝘦𝘳 𝘪𝘯 𝘣𝘦𝘵𝘸𝘦𝘦𝘯.
+    𝘛𝘩𝘢𝘵 𝘭𝘢𝘺𝘦𝘳 𝘪𝘴 𝘢 𝘊𝘋𝘕 (𝘊𝘰𝘯𝘵𝘦𝘯𝘵 𝘋𝘦𝘭𝘪𝘷𝘦𝘳𝘺 𝘕𝘦𝘵𝘸𝘰𝘳𝘬). 𝘚𝘰, 𝘸𝘩𝘢𝘵 𝘪𝘴 𝘢 𝘊𝘋𝘕?
+
+    𝘈 𝘊𝘋𝘕 𝘪𝘴 𝘢 𝘨𝘭𝘰𝘣𝘢𝘭 𝘯𝘦𝘵𝘸𝘰𝘳𝘬 𝘰𝘧 𝘴𝘦𝘳𝘷𝘦𝘳𝘴 𝘱𝘭𝘢𝘤𝘦𝘥 𝘤𝘭𝘰𝘴𝘦 𝘵𝘰 𝘶𝘴𝘦𝘳𝘴 𝘢𝘳𝘰𝘶𝘯𝘥 𝘵𝘩𝘦 𝘸𝘰𝘳𝘭𝘥. 𝘐𝘯𝘴𝘵𝘦𝘢𝘥 𝘰𝘧 𝘦𝘷𝘦𝘳𝘺 𝘳𝘦𝘲𝘶𝘦𝘴𝘵 𝘨𝘰𝘪𝘯𝘨 𝘵𝘰 𝘰𝘯𝘦 𝘮𝘢𝘪𝘯 𝘴𝘦𝘳𝘷𝘦𝘳, 𝘳𝘦𝘲𝘶𝘦𝘴𝘵𝘴 𝘢𝘳𝘦 𝘧𝘪𝘳𝘴𝘵 𝘩𝘢𝘯𝘥𝘭𝘦𝘥 𝘣𝘺 𝘵𝘩𝘦 𝘯𝘦𝘢𝘳𝘦𝘴𝘵 𝘊𝘋𝘕 𝘴𝘦𝘳𝘷𝘦𝘳 (𝘦𝘥𝘨𝘦 𝘴𝘦𝘳𝘷𝘦𝘳). 𝘊𝘰𝘮𝘱𝘢𝘯𝘪𝘦𝘴 𝘭𝘪𝘬𝘦 𝘊𝘭𝘰𝘶𝘥𝘧𝘭𝘢𝘳𝘦, 𝘢𝘯𝘥 𝘈𝘞𝘚 𝘊𝘭𝘰𝘶𝘥𝘍𝘳𝘰𝘯𝘵 𝘳𝘶𝘯 𝘵𝘩𝘦𝘴𝘦 𝘯𝘦𝘵𝘸𝘰𝘳𝘬𝘴.
+
+    𝘐𝘮𝘢𝘨𝘪𝘯𝘦 𝘺𝘰𝘶𝘳 𝘸𝘦𝘣𝘴𝘪𝘵𝘦 𝘴𝘦𝘳𝘷𝘦𝘳 𝘪𝘴 𝘪𝘯 𝘎𝘦𝘳𝘮𝘢𝘯𝘺. 𝘈 𝘶𝘴𝘦𝘳 𝘰𝘱𝘦𝘯𝘴 𝘺𝘰𝘶𝘳 𝘴𝘪𝘵𝘦 𝘧𝘳𝘰𝘮 𝘚𝘳𝘪 𝘓𝘢𝘯𝘬𝘢,
+    𝘞𝘪𝘵𝘩𝘰𝘶𝘵 𝘢 𝘊𝘋𝘕:
+      • 𝘙𝘦𝘲𝘶𝘦𝘴𝘵 𝘵𝘳𝘢𝘷𝘦𝘭𝘴 𝘢𝘭𝘭 𝘵𝘩𝘦 𝘸𝘢𝘺 𝘵𝘰 𝘎𝘦𝘳𝘮𝘢𝘯𝘺
+      • 𝘚𝘦𝘳𝘷𝘦𝘳 𝘱𝘳𝘰𝘤𝘦𝘴𝘴𝘦𝘴 𝘪𝘵
+      • 𝘙𝘦𝘴𝘱𝘰𝘯𝘴𝘦 𝘵𝘳𝘢𝘷𝘦𝘭𝘴 𝘣𝘢𝘤𝘬
+      • 𝘚𝘭𝘰𝘸𝘦𝘳 𝘢𝘯𝘥 𝘮𝘰𝘳𝘦 𝘧𝘳𝘢𝘨𝘪𝘭𝘦
+    𝘞𝘪𝘵𝘩 𝘢 𝘊𝘋𝘕:
+      • 𝘙𝘦𝘲𝘶𝘦𝘴𝘵 𝘩𝘪𝘵𝘴 𝘢 𝘯𝘦𝘢𝘳𝘣𝘺 𝘦𝘥𝘨𝘦 𝘴𝘦𝘳𝘷𝘦𝘳 (𝘮𝘢𝘺𝘣𝘦 𝘚𝘪𝘯𝘨𝘢𝘱𝘰𝘳𝘦 𝘰𝘳 𝘔𝘶𝘮𝘣𝘢𝘪)
+      • 𝘐𝘧 𝘤𝘰𝘯𝘵𝘦𝘯𝘵 𝘪𝘴 𝘤𝘢𝘤𝘩𝘦𝘥, 𝘪𝘵’𝘴 𝘴𝘦𝘳𝘷𝘦𝘥 𝘪𝘯𝘴𝘵𝘢𝘯𝘵𝘭𝘺
+      • 𝘐𝘧 𝘯𝘰𝘵, 𝘵𝘩𝘦 𝘊𝘋𝘕 𝘧𝘦𝘵𝘤𝘩𝘦𝘴 𝘪𝘵 𝘰𝘯𝘤𝘦 𝘧𝘳𝘰𝘮 𝘎𝘦𝘳𝘮𝘢𝘯𝘺 𝘢𝘯𝘥 𝘳𝘦𝘮𝘦𝘮𝘣𝘦𝘳𝘴 𝘪𝘵
+      • 𝘕𝘦𝘹𝘵 𝘶𝘴𝘦𝘳𝘴 𝘢𝘳𝘦 𝘴𝘦𝘳𝘷𝘦𝘥 𝘧𝘢𝘴𝘵𝘦𝘳
+
+    𝘏𝘦𝘳𝘦’𝘴 𝘵𝘩𝘦 𝘬𝘦𝘺 𝘱𝘢𝘳𝘵:
+    𝘉𝘦𝘤𝘢𝘶𝘴𝘦 𝘵𝘩𝘦 𝘊𝘋𝘕 𝘴𝘪𝘵𝘴 𝘪𝘯 𝘧𝘳𝘰𝘯𝘵 𝘰𝘧 𝘺𝘰𝘶𝘳 𝘴𝘦𝘳𝘷𝘦𝘳, 𝘪𝘵 𝘴𝘦𝘦𝘴 𝘦𝘷𝘦𝘳𝘺 𝘳𝘦𝘲𝘶𝘦𝘴𝘵 𝘧𝘪𝘳𝘴𝘵. 𝘐𝘵 𝘤𝘢𝘯 𝘵𝘦𝘳𝘮𝘪𝘯𝘢𝘵𝘦 𝘏𝘛𝘛𝘗𝘚, 𝘢𝘱𝘱𝘭𝘺 𝘴𝘦𝘤𝘶𝘳𝘪𝘵𝘺 𝘳𝘶𝘭𝘦𝘴 (𝘞𝘈𝘍, 𝘣𝘰𝘵 𝘱𝘳𝘰𝘵𝘦𝘤𝘵𝘪𝘰𝘯, 𝘳𝘢𝘵𝘦 𝘭𝘪𝘮𝘪𝘵𝘴), 𝘥𝘦𝘤𝘪𝘥𝘦 𝘸𝘩𝘦𝘵𝘩𝘦𝘳 𝘺𝘰𝘶𝘳 𝘴𝘦𝘳𝘷𝘦𝘳 𝘦𝘷𝘦𝘯 𝘯𝘦𝘦𝘥𝘴 𝘵𝘰 𝘣𝘦 𝘤𝘰𝘯𝘵𝘢𝘤𝘵𝘦𝘥, 𝘢𝘯𝘥 𝘣𝘭𝘰𝘤𝘬 𝘣𝘢𝘥 𝘵𝘳𝘢𝘧𝘧𝘪𝘤 𝘣𝘦𝘧𝘰𝘳𝘦 𝘪𝘵 𝘦𝘷𝘦𝘳 𝘳𝘦𝘢𝘤𝘩𝘦𝘴 𝘺𝘰𝘶. 
+
+    𝘐𝘯 𝘮𝘢𝘯𝘺 𝘤𝘢𝘴𝘦𝘴, 𝘺𝘰𝘶𝘳 𝘴𝘦𝘳𝘷𝘦𝘳 𝘯𝘦𝘷𝘦𝘳 𝘴𝘦𝘦𝘴 𝘵𝘩𝘦 𝘳𝘦𝘲𝘶𝘦𝘴𝘵 𝘢𝘵 𝘢𝘭𝘭. 𝘛𝘩𝘪𝘴 𝘪𝘴 𝘯𝘰𝘵 𝘢 𝘣𝘢𝘥 𝘵𝘩𝘪𝘯𝘨. 𝘛𝘩𝘪𝘴 𝘪𝘴 𝘩𝘰𝘸 𝘵𝘩𝘦 𝘮𝘰𝘥𝘦𝘳𝘯 𝘪𝘯𝘵𝘦𝘳𝘯𝘦𝘵 𝘴𝘤𝘢𝘭𝘦𝘴. 𝘐𝘧 𝘺𝘰𝘶’𝘳𝘦 𝘥𝘦𝘱𝘭𝘰𝘺𝘪𝘯𝘨 𝘸𝘦𝘣 𝘢𝘱𝘱𝘴 𝘢𝘯𝘥 𝘩𝘢𝘷𝘦𝘯’𝘵 𝘭𝘰𝘰𝘬𝘦𝘥 𝘤𝘭𝘰𝘴𝘦𝘭𝘺 𝘢𝘵 𝘸𝘩𝘢𝘵 𝘺𝘰𝘶𝘳 𝘊𝘋𝘕 𝘪𝘴 𝘥𝘰𝘪𝘯𝘨, 𝘺𝘰𝘶’𝘳𝘦 𝘮𝘪𝘴𝘴𝘪𝘯𝘨 𝘢 𝘤𝘳𝘪𝘵𝘪𝘤𝘢𝘭 𝘱𝘢𝘳𝘵 𝘰𝘧 𝘺𝘰𝘶𝘳 𝘢𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦.
+
+    #𝘕𝘦𝘵𝘸𝘰𝘳𝘬𝘪𝘯𝘨 #𝘊𝘋𝘕 #𝘞𝘦𝘣𝘈𝘳𝘤𝘩𝘪𝘵𝘦𝘤𝘵𝘶𝘳𝘦 #𝘊𝘭𝘰𝘶𝘥𝘊𝘰𝘮𝘱𝘶𝘵𝘪𝘯𝘨 #𝘚𝘦𝘤𝘶𝘳𝘪𝘵𝘺 #𝘋𝘦𝘷𝘖𝘱𝘴
+    View image
+    Comment
+    Send
+    View Naveen Akalanka’s profile
+
+    Naveen Akalanka
+
+     
+     • You
+
+    System Administrator | IT Infrastructure & Networking | Linux, Virtualization & Troubleshooting | Proxmox, Docker, DNS | BSc (Hons) Computer Networks
+
+    3mo • 
+
+    𝗜𝗳 𝗬𝗼𝘂 𝗗𝗼𝗻’𝘁 𝗞𝗻𝗼𝘄 𝗔𝗯𝗼𝘂𝘁 𝗚𝗼𝗼𝗴𝗹𝗲 𝗔𝗻𝘁𝗶𝗴𝗿𝗮𝘃𝗶𝘁𝘆 𝗬𝗲𝘁, 𝗬𝗼𝘂’𝗿𝗲 𝗠𝗶𝘀𝘀𝗶𝗻𝗴 𝗢𝘂𝘁
+
+    I didn’t plan to try Google Antigravity.
+
+    I came across it by coincidence after a release update. For context, I’ve been using Google Firebase Studio (Cloud IDE) as my primary development environment for some time. It’s reliable, but the AI integration never really worked for me—too limited and not something I’d trust for serious development.
+
+    Out of curiosity, I installed Antigravity locally.
+
+    That completely reset my understanding of what an AI IDE can be.
+
+    Within seconds, it built a working web app and previewed it directly in Chrome. But it didn’t stop there.
+
+    The agent:
+      • Automatically checks browser console errors
+      • Fixes issues until the app runs clean
+      • Controls the browser itself (clicking, typing, interactions)
+      • Builds, deploys, verifies, removes, and re-deploys Docker containers until everything works
+
+    This is not AI autocomplete.
+    This is agent-driven development.
+
+    What impressed me most is control and trust.
+
+    Antigravity has strong access control:
+      • The agent cannot continue past critical steps without user approval
+      • You decide which actions require confirmation
+      • You can also fully automate workflows if you want
+      • The agent is sandboxed and only has access to the working workspace directory, so privacy isn’t an afterthought
+
+    For major changes, the agent doesn’t act blindly.
+    It first creates a task list and development plan, lets you review it, give feedback, refine it, and only then proceeds. That gives developers real control to shape the project instead of reacting to outputs.
+
+    Another big point: limits.
+
+    Antigravity supports multiple models (Gemini tiers, Claude, ChatGPT) and comes with very generous weekly rate limits:
+      • Unlimited tab completions
+      • Unlimited command requests
+      • A free individual plan that’s actually usable
+    I tested the free plan, and you can build a full-stack application without hitting painful limits or waiting forever.
+
+    I’ve used Lovable, Bolt, Cursor, and similar tools. Even with their free or basic paid plans, limits hit fast and block real progress. You can’t comfortably finish a proper application.
+
+    This is different.
+
+    If you’re a developer—especially a vibe coder—and you don’t know about this yet, you’re missing out.
+
+    Official site:
+    👉 https://lnkd.in/guzGwrwj
+
+    This feels less like a new IDE and more like a shift in how software is built.
+
+    #AI #DeveloperTools #AgenticAI #SoftwareDevelopment #FullStack #VibeCoding
+
+    Google Antigravity
+    Google Antigravity
+
+    antigravity.google
+
+    1 reaction
+    1
+    Comment
+    Send
+    View Naveen Akalanka’s profile
+
+    Naveen Akalanka
+
+     
+     • You
+
+    System Administrator | IT Infrastructure & Networking | Linux, Virtualization & Troubleshooting | Proxmox, Docker, DNS | BSc (Hons) Computer Networks
+
+    3mo • 
+
+    🛠 𝗧𝗿𝘂𝗲𝗡𝗔𝗦 + 𝗣𝗿𝗼𝘅𝗺𝗼𝘅 + 𝗦𝗠𝗕 (𝗩𝗶𝗿𝘁𝘂𝗮𝗹𝗶𝘇𝗲𝗱 𝗦𝘁𝗼𝗿𝗮𝗴𝗲 𝗳𝗼𝗿 𝗪𝗶𝗻𝗱𝗼𝘄𝘀)
+
+    Running TrueNAS inside Proxmox VE is a common homelab and on-prem pattern when you want centralized storage without dedicating a full physical machine.
+    In this setup, TrueNAS SCALE runs as a VM, raw disks are passed through from Proxmox, and storage is shared to Windows systems over SMB.
+
+    This gives you virtualization flexibility + NAS reliability in one design.
+
+    What is SMB (and why it’s used here)
+    SMB (Server Message Block) is a network file-sharing protocol mainly used by Windows systems.
+
+    It allows:
+      • File sharing over the network
+      • User-based access control
+      • Drive mapping in Windows (Z:, Y:, etc.)
+      • Seamless access without extra client software
+
+    That’s why SMB is the most practical choice when Windows PCs need access to TrueNAS storage.
+
+    Configuration Overview
+
+    What was configured in this setup:
+      • TrueNAS SCALE installed as a VM inside Proxmox
+      • UEFI (OVMF) + q35 machine type for stability
+      • Raw disks attached to the VM using /dev/disk/by-id
+      • ZFS pool and datasets created inside TrueNAS
+      • Static IP configured for consistent access
+      • SMB service enabled with local users
+      • Dataset shared to Windows via \\IP_ADDRESS
+      • Optional SSH enabled for easier administration
+
+    Result:
+    TrueNAS handles storage and ZFS, Proxmox handles virtualization, and Windows accesses everything transparently over SMB.
+
+    Some common issues during setup:
+      • Incorrect disk passthrough paths (fixed by using /dev/disk/by-id)
+      • SMB authentication failures due to missing “Samba Authentication” on users
+      • Permission issues on datasets
+      • Network misconfiguration before setting a static IP
+      • SMB share not visible until services were restarted
+
+    All of these were documented with fixes.
+
+    My Documentation:
+    I documented the entire process step by step, from VM creation to Windows access:
+
+    📘 TrueNAS + Proxmox SMB Guide
+
+    👉 https://lnkd.in/gmgjiyun
+
+    Reference Links
+
+      • Proxmox VE: https://lnkd.in/g6kYysQR
+    • TrueNAS SCALE: https://lnkd.in/gY5TbQRt
+    • SMB Protocol (Microsoft): https://lnkd.in/gh4vg46A
+    • ZFS Documentation: https://lnkd.in/gS42HbSh
+
+    This setup works well for home labs, learning environments, and small on-prem deployments where Windows clients need reliable shared storage.
+
+    #TrueNAS #Proxmox #SMB #HomeLab #SelfHosting #Linux #Storage #Networking #OpenSource
+    View image
+
+    6 reactions
+    6
+    Comment
+    Send
+    View Naveen Akalanka’s profile
+
+    Naveen Akalanka
+
+     
+     • You
+
+    System Administrator | IT Infrastructure & Networking | Linux, Virtualization & Troubleshooting | Proxmox, Docker, DNS | BSc (Hons) Computer Networks
+
+    3mo • 
+
+    🛠 𝗡𝗲𝘅𝘁𝗰𝗹𝗼𝘂𝗱 𝗜𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻 𝗼𝗻 𝗨𝗯𝘂𝗻𝘁𝘂 𝘄𝗶𝘁𝗵 𝗧𝗿𝘂𝗲𝗡𝗔𝗦 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻
+    𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻
+
+    Nextcloud is a popular open-source platform for building a self-hosted cloud. When combined with Ubuntu Server and TrueNAS, it becomes a powerful solution for private file storage with full control over data, performance, and scalability.
+
+    I set up Nextcloud on an Ubuntu server and integrated it with TrueNAS storage to separate application logic from data storage, similar to real-world on-prem environments.
+
+    What I Implemented:
+      • Removed the Snap version of Nextcloud to avoid flexibility and performance limitations
+      • Installed Nextcloud manually on Ubuntu Server (Apache, PHP, MariaDB)
+      • Mounted TrueNAS storage on Ubuntu using network shares
+      • Moved the Nextcloud data directory to TrueNAS
+      • Tuned permissions, PHP settings, and Apache configuration
+
+    This setup allows Nextcloud to run on Ubuntu while all user data is stored and managed by TrueNAS.
+
+    Issues Encountered:
+      • During the setup, several common issues came up:
+      • Missing PHP modules required by Nextcloud
+      • Permission errors after moving the data directory
+      • PHP memory limit warnings
+      • Insecure HTTP access before enabling HTTPS
+      • Apache configuration errors during initial setup
+
+    Each issue was resolved and documented with clear explanations and commands.
+
+    My Documentation
+    I documented the entire process step-by-step, including fixes for common errors:
+
+    📘 Nextcloud Installation on Ubuntu with TrueNAS Integration
+
+    👉 https://lnkd.in/gadsb_Qw
+
+    Reference Links
+      • Nextcloud Official: https://nextcloud.com
+    • Nextcloud Admin Manual: https://lnkd.in/gNZXA4ea
+    • Ubuntu Server: https://ubuntu.com/server
+    • TrueNAS Documentation: https://lnkd.in/guCPHvFD
+    • Apache HTTP Server: https://httpd.apache.org
+    • MariaDB: https://mariadb.org
+
+    This setup works well for home labs, private clouds, and small on-prem deployments where data control matters.
+
+    If you’ve deployed Nextcloud before, did you use local storage or a NAS backend?
+
+    #Nextcloud #SelfHosting #UbuntuServer #TrueNAS #HomeLab #Linux #OpenSource #Networking
+    View image
+    Comment
+    Send
+    View Naveen Akalanka’s profile
+
+    Naveen Akalanka
+
+     
+     • You
+
+    System Administrator | IT Infrastructure & Networking | Linux, Virtualization & Troubleshooting | Proxmox, Docker, DNS | BSc (Hons) Computer Networks
+
+    4mo • 
+
+    💸 𝗻𝟴𝗻 𝗜𝘀𝗻’𝘁 𝗣𝗮𝗶𝗱 — 𝗬𝗼𝘂’𝗿𝗲 𝗝𝘂𝘀𝘁 𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗮𝘁 𝘁𝗵𝗲 𝗖𝗹𝗼𝘂𝗱 𝗩𝗲𝗿𝘀𝗶𝗼𝗻
+
+    Most people think n8n is paid.
+    That’s true only for the cloud version.
+
+    n8n is an open-source workflow automation tool that lets you:
+
+      • connect apps and services
+      • automate repetitive tasks
+      • build logic-based workflows (no heavy coding)
+      • self-host everything on your own server
+
+    If you deploy it with Docker, n8n is 100% free.
+
+    Official n8n site:
+    👉 https://n8n.io
+
+    I’ve documented two self-hosted setups from my home lab:
+
+      1. n8n on Docker Compose inside a Proxmox LXC
+      2. n8n on Docker with Yacht + Traefik inside an Ubuntu LXC
+
+    📘 Guides:
+
+    👉 https://lnkd.in/gFv6kwg3
+
+    👉 https://lnkd.in/gcE_-QfD
+
+    If you already run Docker, self-hosting n8n is a no-brainer.
+
+    Merry Christmas 🎄
+
+    #n8n #Automation #SelfHosting #Docker #HomeLab #Proxmox #Linux
+    View image
+
+    2 reactions
+    2
+    Comment
+    Send
+    View Naveen Akalanka’s profile
+
+    Naveen Akalanka
+
+     
+     • You
+
+    System Administrator | IT Infrastructure & Networking | Linux, Virtualization & Troubleshooting | Proxmox, Docker, DNS | BSc (Hons) Computer Networks
+
+    4mo • 
+
+    🐳 𝗕𝗲𝘀𝘁 𝗦𝗲𝗹𝗳-𝗛𝗼𝘀𝘁𝗲𝗱 𝗗𝗼𝗰𝗸𝗲𝗿 𝗠𝗮𝗻𝗮𝗴𝗲𝗿𝘀 (𝗥𝗮𝗻𝗸𝗲𝗱)
+
+    If you’re running Docker on a home lab VPS, NAS, or server, you’ll hit this fast:
+
+    ✅ containers everywhere
+    ✅ multiple compose files
+    ✅ updates, restarts, logs, volumes, networks
+    ✅ “what broke?” at 2AM
+
+    Yes, you can do everything from the CLI.
+
+    But once you have more than a few stacks, a Docker manager becomes the control panel for your infrastructure.
+
+    What these tools actually are?
+
+    Self-hosted Docker managers are dashboards you run on your own server that let you:
+
+      • deploy and update containers/stacks faster
+      • view logs, resource usage, and health checks in one place
+      • manage volumes, networks, and environment variables safely
+      • avoid accidental mistakes when you’re doing quick changes
+      • give limited access to others (if you’re running shared servers)
+
+    Why it matters? (especially in labs and small teams)
+    When your setup grows, the real challenge isn’t “running a container” …
+
+    It’s maintaining it: updates, downtime, troubleshooting, visibility, consistency.
+
+    That’s what these tools help with.
+
+    🥇 Portainer
+
+    🔗 https://www.portainer.io
+
+    Why it’s #1
+      • Clean UI, beginner-friendly
+      • Manages Docker, Docker Swarm, and Kubernetes
+      • Strong role-based access control
+    Pros
+      • Easy to deploy (one container)
+      • Great for home labs and small teams
+      • Active development
+    Cons
+      • Advanced features locked behind paid version
+
+    🥈 Dockge
+
+    🔗 https://dockge.kuma.pet/
+
+    Why it’s rising fast
+      • Built around docker-compose
+      • Extremely clean and fast UI
+    Pros
+      • Perfect for compose-based setups
+      • Simple stack updates
+      • Lightweight
+    Cons
+      • No Swarm / Kubernetes support
+      • Newer project, fewer enterprise features
+
+    🥉 Yacht
+
+    🔗 https://dev.yacht.sh/
+
+    Best for
+      • Portainer-like experience with templates
+    Pros
+      • Simple UI
+      • Good app templates for self-hosting
+      • Easy deployment
+    Cons
+      • Slower development
+      • Limited advanced controls
+
+    4️⃣ Rancher (Overkill for Most)
+
+    🔗 https://www.rancher.com
+
+    Best for
+      • Kubernetes-heavy environments
+    Pros
+      • Enterprise-grade
+      • Powerful cluster management
+    Cons
+      • Overkill for simple Docker setups
+      • Higher learning curve
+
+    5️⃣ LazyDocker (CLI Lovers)
+
+    🔗 https://lazydocker.com/
+
+    Best for
+      • Terminal-first users
+    Pros
+      • Fast
+      • No browser needed
+      • Great for SSH workflows
+    Cons
+      • Not beginner-friendly
+      • No GUI visuals 
+
+
+    🧠 My Take
+
+      1. Home lab / learning → Portainer or Dockge
+      2. Compose-heavy setups → Dockge
+      3. K8s environments → Rancher
+      4. SSH-only servers → LazyDocker
+
+    📌 Tip: A good Docker manager doesn’t replace understanding Docker — it reduces friction.
+
+    If you self-host containers, which one are you using and why? 👇
+
+    #Docker #SelfHosting #DevOps #Homelab #Containers #Linux #Networking
+    View image
+
+    2 reactions
+    2
+    Comment
+    Send
+
+Show all
+Experience
+
+System Administrator
+
+JID Advertising Agency · Full-time
+
+Sep 2021 - Present · 4 yrs 8 mos
+
+Colombo District, Western Province, Sri Lanka
+
+ Network Troubleshooting, System Administration and +3 skills
+Education
+University of Wolverhampton logo
+
+University of Wolverhampton
+
+Bachelor of Science with Honours (BSc), Computer Networks
+
+Feb 2024 – Oct 2024
+
+Grade: First Class Honours
+
+ Network Engineering, Network Design and +4 skills
+
+Pearson Education Ltd
+
+Higher National Diploma, Computer Systems Networking and Telecommunications
+
+Oct 2021 – Aug 2023
+
+Grade: Distinction
+
+ Network Engineering, Network Design and +4 skills
+Show all
+Projects
+
+NuxView — Interactive Linux Directory Visualization Tool
+
+Nov 2025 – Dec 2025
+
+NuxView is a deployable file system visualization tool built to solve the difficulty of understanding deep and complex directory structures.
+
+The project scans local folders and presents them in an interactive, node-based interface where users can explore each path and understand the role and purpose of directories instead of just seeing raw names.
+
+By combining visual navigation with contextual exploration, NuxView makes large hierarchies easier to reason about than traditional CLI outputs.
+
+It is designed as a learning-friendly project: anyone can install it locally, run it, explore the source code, and understand how filesystem scanning, backend APIs, and frontend visualization work together.
+
+This project reflects my problem-solving approach — identifying friction in everyday workflows and building practical tools to remove it.
+
+ Problem Solving, Linux and +3 skills
+Thumbnail for NuxView | GitHub - Source code
+Thumbnail for NuxView | Documentation and installation guide:
+Thumbnail for NuxView Home Page
+Thumbnail for NuxView Functions
+Thumbnail for NuxView System Scan
+Thumbnail for NuxView Mobile UI
+
++2
+
+ScanEye – Advanced Host Network Scanning & Monitoring Tool
+
+Sep 2025 – Oct 2025
+
+Overview: Designed and developed a full-stack network monitoring solution to bridge the gap between browser-based interfaces and local network hardware. ScanEye overcomes browser security restrictions to provide real-time LAN visibility, device discovery, and health monitoring.
+
+Key Technical Achievements:
+
+    Containerized Architecture: Built a production-ready Docker environment using network_mode: host to bypass container isolation and enable privileged network access for Nmap.
+
+    Real-Time Data Pipeline: Implemented a Node.js backend with WebSockets to stream live network scan results and speed test data to a React frontend instantly.
+
+    Security Hardening: Secured the application with Helmet headers, strict rate limiting (DoS protection), and IP-CIDR input validation to prevent command injection.
+
+    Modern UI/UX: Created a responsive, dark-themed dashboard using React 19 and TailwindCSS, featuring custom visualization for network health.
+
+Tech Stack: React, Node.js, Express, Docker, Nmap, WebSocket, TailwindCSS.
+
+ Nmap, Docker and +4 skills
+Thumbnail for ScanEye - Dashboard
+Thumbnail for ScanEye - API & Configarations
+Thumbnail for ScanEye - HomePage
+Thumbnail for ScanEye | GitHub -Source code
+Thumbnail for ScanEye | Documentation and installation guide
+Skills (33)
+
+Docker
+
+ScanEye – Advanced Host Network Scanning & Monitoring Tool
+
+Nmap
+
+ScanEye – Advanced Host Network Scanning & Monitoring Tool
+Show all
+Recommendations
+Show all pending
+Received
+Given
+
+You haven’t received a recommendation yet
+
+Try asking one of your connections to recommend you
+Ask for a recommendation
+Honors & awards (3)
+
+Best Dissertation / Research Project Award
+
+Issued by University of Wolverhampton · Oct 2025
+
+Associated with University of Wolverhampton
+
+Awarded for the highest-graded honours research project in the cohort.
+
+First Class Honours – BSc (Hons) Computer Networks (Top-up)
+
+Issued by University of Wolverhampton · Oct 2025
+
+Associated with University of Wolverhampton

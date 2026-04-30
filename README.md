@@ -91,7 +91,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/ScanEye.svg" width="24" align="center" /> &nbsp;[ScanEye](https://github.com/NaveenAkalanka/ScanEye)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=00B4D8&width=440&height=100&lines=Advanced+Network+Scanning+%26+Monitoring+Tool;Web+browsers+can't+touch+your+local+network+%E2%80%94;So+I+built+a+bridge.+ScanEye+runs+as+a;privileged+Docker+container+%28network_mode%3A+host%29;Uses+Nmap+for+deep+device+discovery+%26+live+results;Rate-limited+%7C+Helmet-hardened+%7C+Injection-resistant;Stack%3A+Docker+%7C+Node.js+%7C+React+%7C+Nmap+%7C+WebSockets" alt="ScanEye" />
+<img src="./Assets/scaneye_terminal.gif" width="100%" alt="ScanEye Terminal" />
 
 </td>
 <td width="50%" valign="top">
@@ -100,7 +100,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/NuxView.svg" width="24" align="center" /> &nbsp;[NuxView](https://github.com/NaveenAkalanka/NuxView)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=00B4D8&width=440&height=100&lines=Interactive+Linux+Directory+Visualization+Tool;ls+-la+shows+you+names.+NuxView+shows+meaning.;Scans+local+filesystems+%26+renders+a+node-based+UI;Explore+directory+roles+%E2%80%94+not+just+paths.;Built+for+learning+environments+%26+lab+setups;Stack%3A+TypeScript+%7C+Node.js+%7C+React+%7C+Linux" alt="NuxView" />
+<img src="./Assets/nuxview_terminal.gif" width="100%" alt="NuxView Terminal" />
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/ClusterEye.svg" width="24" align="center" /> &nbsp;[ClusterEye](https://github.com/NaveenAkalanka/ClusterEye)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=00B4D8&width=440&height=100&lines=Advanced+Cluster+Monitoring+%26+Management+Dashboard;Real-time+monitoring+for+cluster+environments.;Architectural+predecessor+to+ScanEye.;Exposed+the+browser+sandboxing+problem;Later+solved+with+a+containerized+split-architecture;Stack%3A+JavaScript+%7C+Node.js+%7C+Docker" alt="ClusterEye" />
+<img src="./Assets/clustereye_terminal.gif" width="100%" alt="ClusterEye Terminal" />
 
 </td>
 <td width="50%" valign="top">
@@ -120,7 +120,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/PoseFit.svg" width="24" align="center" /> &nbsp;[PoseFit V2](https://github.com/NaveenAkalanka/PoseFit-V2)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=00B4D8&width=440&height=100&lines=Body-Orientation-Invariant+3D+Joint-Angle+Estimation;Biomechanical+angle+estimation%2C+camera-viewpoint-agnostic;Accurate+regardless+of+distance+or+body+rotation;Goes+beyond+standard+pose+detection;Maintains+constant+angle+values+as+user+moves+freely;Stack%3A+JavaScript+%7C+Machine+Learning+%7C+Computer+Vision" alt="PoseFit V2" />
+<img src="./Assets/posefit_terminal.gif" width="100%" alt="PoseFit Terminal" />
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/ScrollSync.svg" width="24" align="center" /> &nbsp;[ScrollSync](https://github.com/NaveenAkalanka/ScrollSync)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=00B4D8&width=440&height=100&lines=Hands-Free+Chrome+Browsing+Extension;Auto-scroll+%26+smart+click+navigation+for+Chrome;Gamepad+controller+support+built-in;Solves+a+real+accessibility+%26+workflow+problem;Because+sometimes+your+hands+should+be+free;Stack%3A+JavaScript+%7C+Chrome+Extension+API" alt="ScrollSync" />
+<img src="./Assets/scrollsync_terminal.gif" width="100%" alt="ScrollSync Terminal" />
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +140,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/SerenityEcho.svg" width="24" align="center" /> &nbsp;[SerenityEcho](https://github.com/NaveenAkalanka/SerenityEcho)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=00B4D8&width=440&height=100&lines=Privacy-First+Offline+Ambient+Sound+Mixer;No+signups.+No+paywalls.+No+cloud.;Fully+offline-capable+ambient+sound+mixer;No+data+ever+leaves+your+device;Works+entirely+in+the+browser;Stack%3A+TypeScript+%7C+PWA+%7C+Web+Audio+API" alt="SerenityEcho" />
+<img src="./Assets/serenityecho_terminal.gif" width="100%" alt="SerenityEcho Terminal" />
 
 </td>
 </tr>

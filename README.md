@@ -30,7 +30,9 @@
         &nbsp;🔴 🟡 🟢 &nbsp;&nbsp; <b><code>terminal — naveen@infrastructure — 100x30</code></b>
       </div>
       <div style="padding: 25px;">
-        <img src="https://raw.githubusercontent.com/NaveenAkalanka/NaveenAkalanka/main/Assets/profile_animation.svg?v=2" alt="Animated Profile Terminal" width="100%" />
+        <p align="center">
+          <img src="./Assets/profile_animation.svg" alt="Animated Profile Terminal" width="100%" />
+        </p>
       </div>
     </td>
   </tr>

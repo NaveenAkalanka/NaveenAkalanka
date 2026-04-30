@@ -4,11 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00b4d8&height=120&section=header&text=Naveen%20Akalanka&fontSize=50&fontAlignY=40&fontColor=ffffff&animation=twinkling&fontKey=Outfit" />
 
-<br/>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&pause=1500&color=00B4D8&center=true&vCenter=true&width=720&lines=Building+tools.+Running+labs.+Shipping+things.;Agentic+Engineer+%E2%80%A2+VibeCoder;Infrastructure+as+Code+%E2%80%A2+Cloud+%E2%80%A2+DevOps" alt="Typing SVG" /></a>
-
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naveen--akalanka-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-akalanka)
 [![GitHub](https://img.shields.io/badge/GitHub-NaveenAkalanka-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NaveenAkalanka)

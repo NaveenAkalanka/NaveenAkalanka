@@ -86,7 +86,7 @@
 
 ### <img src="./Assets/ScanEye.svg" width="24" align="center" /> &nbsp;[ScanEye](https://github.com/NaveenAkalanka/ScanEye)
 
-<img src="./Assets/scaneye_term.gif" width="100%" alt="ScanEye Terminal" />
+<img src="./Assets/scaneye_t.gif" width="100%" alt="ScanEye Terminal" />
 
 </td>
 <td width="50%" valign="top">
@@ -95,7 +95,7 @@
 
 ### <img src="./Assets/NuxView.svg" width="24" align="center" /> &nbsp;[NuxView](https://github.com/NaveenAkalanka/NuxView)
 
-<img src="./Assets/nuxview_term.gif" width="100%" alt="NuxView Terminal" />
+<img src="./Assets/nuxview_t.gif" width="100%" alt="NuxView Terminal" />
 
 </td>
 </tr>
@@ -106,7 +106,7 @@
 
 ### <img src="./Assets/ClusterEye.svg" width="24" align="center" /> &nbsp;[ClusterEye](https://github.com/NaveenAkalanka/ClusterEye)
 
-<img src="./Assets/clustereye_term.gif" width="100%" alt="ClusterEye Terminal" />
+<img src="./Assets/clustereye_t.gif" width="100%" alt="ClusterEye Terminal" />
 
 </td>
 <td width="50%" valign="top">
@@ -115,7 +115,7 @@
 
 ### <img src="./Assets/PoseFit.svg" width="24" align="center" /> &nbsp;[PoseFit V2](https://github.com/NaveenAkalanka/PoseFit-V2)
 
-<img src="./Assets/posefit_term.gif" width="100%" alt="PoseFit Terminal" />
+<img src="./Assets/posefit_t.gif" width="100%" alt="PoseFit Terminal" />
 
 </td>
 </tr>
@@ -126,7 +126,7 @@
 
 ### <img src="./Assets/ScrollSync.svg" width="24" align="center" /> &nbsp;[ScrollSync](https://github.com/NaveenAkalanka/ScrollSync)
 
-<img src="./Assets/scrollsync_term.gif" width="100%" alt="ScrollSync Terminal" />
+<img src="./Assets/scrollsync_t.gif" width="100%" alt="ScrollSync Terminal" />
 
 </td>
 <td width="50%" valign="top">
@@ -135,7 +135,7 @@
 
 ### <img src="./Assets/SerenityEcho.svg" width="24" align="center" /> &nbsp;[SerenityEcho](https://github.com/NaveenAkalanka/SerenityEcho)
 
-<img src="./Assets/serenityecho_term.gif" width="100%" alt="SerenityEcho Terminal" />
+<img src="./Assets/serenityecho_t.gif" width="100%" alt="SerenityEcho Terminal" />
 
 </td>
 </tr>
@@ -189,7 +189,7 @@
 
 <div align="center">
 
-<img src="./Assets/education_term.gif" width="100%" alt="Education Terminal" />
+<img src="./Assets/education_t.gif" width="100%" alt="Education Terminal" />
 
 </div>
 
@@ -199,7 +199,7 @@
 
 <div align="center">
 
-<img src="./Assets/agentic_term.gif" width="100%" alt="Agentic Terminal" />
+<img src="./Assets/agentic_t.gif" width="100%" alt="Agentic Terminal" />
 
 </div>
 

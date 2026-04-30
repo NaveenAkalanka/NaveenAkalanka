@@ -1,10 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="350" viewBox="0 0 800 350">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="550" viewBox="0 0 900 550">
   <style>
     .terminal-text {
       font-family: 'Fira Code', 'Courier New', monospace;
-      font-size: 16px;
-      fill: #00B4D8;
+      font-size: 14px;
     }
+    .command { fill: #27C93F; } /* Light Green for commands */
+    .output { fill: #00B4D8; }  /* Electric Blue for output */
+    .separator { fill: #1F2937; } /* Dark gray for separators */
+    .status { fill: #ffffff; font-weight: bold; }
     .cursor {
       fill: #00B4D8;
       animation: blink 1s step-end infinite;
@@ -20,58 +23,115 @@
     @keyframes typeIn {
       to { opacity: 1; }
     }
+    /* Main loop animation */
+    .main-loop {
+      animation: loopAnimation 25s infinite;
+    }
+    @keyframes loopAnimation {
+      0%, 95% { opacity: 1; }
+      96%, 100% { opacity: 0; }
+    }
   </style>
 
   <!-- Terminal Background -->
-  <rect width="800" height="350" rx="10" fill="#0D1117" stroke="#1F2937" stroke-width="1"/>
+  <rect width="900" height="550" rx="10" fill="#0D1117" stroke="#1F2937" stroke-width="1"/>
   
   <!-- Terminal Header -->
-  <rect width="800" height="35" rx="10" fill="#161B22"/>
-  <rect y="25" width="800" height="10" fill="#161B22"/>
+  <rect width="900" height="35" rx="10" fill="#161B22"/>
+  <rect y="25" width="900" height="10" fill="#161B22"/>
   <circle cx="20" cy="17.5" r="5" fill="#FF5F56"/>
   <circle cx="40" cy="17.5" r="5" fill="#FFBD2E"/>
   <circle cx="60" cy="17.5" r="5" fill="#27C93F"/>
-  <text x="400" y="22" font-family="Outfit, Arial" font-size="12" fill="#8B949E" text-anchor="middle">terminal — naveen@infrastructure — 80x24</text>
+  <text x="450" y="22" font-family="Outfit, Arial" font-size="12" fill="#8B949E" text-anchor="middle">terminal — naveen@infrastructure — 100x30</text>
 
   <!-- Terminal Content -->
-  <g class="terminal-text" transform="translate(20, 70)">
+  <g class="terminal-text main-loop" transform="translate(25, 70)">
+    <!-- whoami -->
     <g class="line" style="animation-delay: 0.5s;">
-      <text x="0" y="0">$ cat profile.yml</text>
+      <text x="0" y="0" class="command">&gt; whoami</text>
     </g>
     <g class="line" style="animation-delay: 1.5s;">
-      <text x="0" y="25">ENVIRONMENT: infra-engineer:latest</text>
+      <text x="0" y="20" class="output">Name: Naveen Akalanka | Role: Cloud &amp; DevOps Engineer | Infrastructure Specialist</text>
     </g>
     <g class="line" style="animation-delay: 2.5s;">
-      <text x="0" y="50">FOCUS: Cloud • DevOps • Agentic Engineering</text>
+      <text x="0" y="40" class="output">Focus: High-availability architecture and agent-driven automation</text>
     </g>
-    <g class="line" style="animation-delay: 3.5s;">
-      <text x="0" y="75">HOMELAB: Proxmox VE • TrueNAS • Docker</text>
+    <g class="line" style="animation-delay: 3.0s;">
+      <text x="0" y="55" class="separator">---------------------------------------------------------------------------------------------------</text>
     </g>
-    <g class="line" style="animation-delay: 4.5s;">
-      <text x="0" y="100">DESIGN: Graphic Design • 3D Design</text>
+
+    <!-- system --info -->
+    <g class="line" style="animation-delay: 4.0s;">
+      <text x="0" y="75" class="command">&gt; system --info</text>
     </g>
-    <g class="line" style="animation-delay: 5.5s;">
-      <text x="0" y="125">PORTS: 80:Idea → 443:Reality</text>
+    <g class="line" style="animation-delay: 5.0s;">
+      <text x="0" y="95" class="output">Education: BSc (Hons) Computer Networks — First Class Honours</text>
+    </g>
+    <g class="line" style="animation-delay: 6.0s;">
+      <text x="0" y="115" class="output">Experience: System Administrator at JID Advertising Agency</text>
     </g>
     <g class="line" style="animation-delay: 6.5s;">
-      <text x="0" y="150">VOLUMES: /brain/knowledge → /app/skills</text>
+      <text x="0" y="130" class="separator">---------------------------------------------------------------------------------------------------</text>
     </g>
+
+    <!-- technical skills -->
     <g class="line" style="animation-delay: 7.5s;">
-      <text x="0" y="185">$ status --check</text>
+      <text x="0" y="150" class="command">&gt; ls /skills/technical</text>
     </g>
     <g class="line" style="animation-delay: 8.5s;">
-      <text x="0" y="210">Checking systems... [DONE]</text>
+      <text x="0" y="170" class="output">Cloud: Azure, AWS | DevOps: Kubernetes, Docker, n8n, and Linux</text>
     </g>
     <g class="line" style="animation-delay: 9.5s;">
-      <text x="0" y="235">All systems operational.</text>
+      <text x="0" y="190" class="output">Networking / Virtualization: Proxmox Clusters (HA), LXC, and VMs</text>
+    </g>
+    <g class="line" style="animation-delay: 10.0s;">
+      <text x="0" y="205" class="separator">---------------------------------------------------------------------------------------------------</text>
+    </g>
+
+    <!-- creative skills -->
+    <g class="line" style="animation-delay: 11.0s;">
+      <text x="0" y="225" class="command">&gt; ls /skills/creative</text>
+    </g>
+    <g class="line" style="animation-delay: 12.0s;">
+      <text x="0" y="245" class="output">Agentic Dev: AI-Agent Orchestration</text>
+    </g>
+    <g class="line" style="animation-delay: 13.0s;">
+      <text x="0" y="265" class="output">Design: UI/UX, Graphic Design, and 3D Modeling</text>
+    </g>
+    <g class="line" style="animation-delay: 13.5s;">
+      <text x="0" y="280" class="separator">---------------------------------------------------------------------------------------------------</text>
+    </g>
+
+    <!-- mission -->
+    <g class="line" style="animation-delay: 14.5s;">
+      <text x="0" y="300" class="command">&gt; echo $MISSION</text>
+    </g>
+    <g class="line" style="animation-delay: 15.5s;">
+      <text x="0" y="320" class="output">"To build and scale resilient cloud infrastructure through rapid, agent-driven problem solving."</text>
+    </g>
+    <g class="line" style="animation-delay: 16.0s;">
+      <text x="0" y="335" class="separator">---------------------------------------------------------------------------------------------------</text>
+    </g>
+
+    <!-- status -->
+    <g class="line" style="animation-delay: 17.5s;">
+      <text x="0" y="355" class="status">[STATUS: ONLINE]</text>
+    </g>
+    <g class="line" style="animation-delay: 18.5s;">
+      <text x="0" y="380" class="command">$ status --check</text>
+    </g>
+    <g class="line" style="animation-delay: 19.5s;">
+      <text x="0" y="400" class="output">Checking systems... [DONE]</text>
+    </g>
+    <g class="line" style="animation-delay: 20.5s;">
+      <text x="0" y="420" class="status">All systems operational.</text>
     </g>
     
     <!-- Cursor -->
-    <rect class="cursor" x="0" y="245" width="10" height="20" style="animation-delay: 10s;">
-      <animate attributeName="x" values="0;220;220" keyTimes="0;0.9;1" dur="10s" fill="freeze" />
-      <animate attributeName="y" values="0;0;25;25;50;50;75;75;100;100;125;125;150;150;185;185;210;210;235;235;245" 
-               keyTimes="0;0.1;0.1;0.2;0.2;0.3;0.3;0.4;0.4;0.5;0.5;0.6;0.6;0.7;0.7;0.8;0.8;0.9;0.9;0.95;1" 
-               dur="10s" fill="freeze" />
+    <rect class="cursor" x="0" y="430" width="10" height="20">
+      <animate attributeName="y" values="0;20;40;55;75;95;115;130;150;170;190;205;225;245;265;280;300;320;335;355;380;400;420;430" 
+               keyTimes="0;0.06;0.1;0.12;0.16;0.2;0.24;0.26;0.3;0.34;0.38;0.4;0.44;0.48;0.52;0.54;0.58;0.62;0.64;0.7;0.74;0.78;0.82;1" 
+               dur="25s" repeatCount="indefinite" />
     </rect>
   </g>
 </svg>

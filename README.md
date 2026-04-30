@@ -12,8 +12,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
-
 ## <img src="https://api.iconify.design/ph/user-circle-bold.svg?color=%2300B4D8" width="26" /> About Me
 
 <div align="center">
@@ -22,9 +20,7 @@
 
 </div>
 
-<br/>
-
-<br/>
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
 > I'm an **infrastructure engineer** who started in networking and never stopped going deeper. I run a self-hosted home lab — not as a hobby, but as a real environment where I design, break, and fix systems. When existing tooling doesn't solve the problem, **I build the tool myself.**
 

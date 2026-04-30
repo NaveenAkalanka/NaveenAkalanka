@@ -20,16 +20,11 @@
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
-> I'm an **infrastructure engineer** who started in networking and never stopped going deeper. I run a self-hosted home lab — not as a hobby, but as a real environment where I design, break, and fix systems. When existing tooling doesn't solve the problem, **I build the tool myself.**
+<div align="center">
 
-### <img src="https://api.iconify.design/ph/lightbulb-bold.svg?color=%2300B4D8" width="24" /> The Intent of Invention
-I view engineering as a **creative pursuit of invention**, driven by a desire to solve complex problems through technology. My focus is on the *language of interconnected systems* — understanding how data flows and ensuring every layer of infrastructure is built with purpose.
+<img src="./Assets/about.gif" alt="About Me Details Animation" width="100%" />
 
-### <img src="https://api.iconify.design/ph/flask-bold.svg?color=%2300B4D8" width="24" /> The Systems Laboratory
-I treat my high-availability **Proxmox** home lab as a rigorous **R&D environment** to design, break, and harden systems. This hands-on approach ensures that my work in <kbd>Azure</kbd>, <kbd>AWS</kbd>, and <kbd>DevOps</kbd> is backed by a deep understanding of the underlying layers that keep modern applications running.
-
-### <img src="https://api.iconify.design/ph/magic-wand-bold.svg?color=%2300B4D8" width="24" /> Orchestration & Design
-I leverage **AI agents** as productivity multipliers to architect solutions and streamline the problem-solving process. By integrating a professional background in **UI and 3D design**, I ensure that the technical tools I ship are both *functionally robust* and *visually polished*.
+</div>
 
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%" />
 
@@ -91,7 +86,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/ScanEye.svg" width="24" align="center" /> &nbsp;[ScanEye](https://github.com/NaveenAkalanka/ScanEye)
 
-<img src="./Assets/scaneye_terminal.gif" width="100%" alt="ScanEye Terminal" />
+<img src="./Assets/scaneye_term.gif" width="100%" alt="ScanEye Terminal" />
 
 </td>
 <td width="50%" valign="top">
@@ -100,7 +95,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/NuxView.svg" width="24" align="center" /> &nbsp;[NuxView](https://github.com/NaveenAkalanka/NuxView)
 
-<img src="./Assets/nuxview_terminal.gif" width="100%" alt="NuxView Terminal" />
+<img src="./Assets/nuxview_term.gif" width="100%" alt="NuxView Terminal" />
 
 </td>
 </tr>
@@ -111,7 +106,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/ClusterEye.svg" width="24" align="center" /> &nbsp;[ClusterEye](https://github.com/NaveenAkalanka/ClusterEye)
 
-<img src="./Assets/clustereye_terminal.gif" width="100%" alt="ClusterEye Terminal" />
+<img src="./Assets/clustereye_term.gif" width="100%" alt="ClusterEye Terminal" />
 
 </td>
 <td width="50%" valign="top">
@@ -120,7 +115,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/PoseFit.svg" width="24" align="center" /> &nbsp;[PoseFit V2](https://github.com/NaveenAkalanka/PoseFit-V2)
 
-<img src="./Assets/posefit_terminal.gif" width="100%" alt="PoseFit Terminal" />
+<img src="./Assets/posefit_term.gif" width="100%" alt="PoseFit Terminal" />
 
 </td>
 </tr>
@@ -131,7 +126,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/ScrollSync.svg" width="24" align="center" /> &nbsp;[ScrollSync](https://github.com/NaveenAkalanka/ScrollSync)
 
-<img src="./Assets/scrollsync_terminal.gif" width="100%" alt="ScrollSync Terminal" />
+<img src="./Assets/scrollsync_term.gif" width="100%" alt="ScrollSync Terminal" />
 
 </td>
 <td width="50%" valign="top">
@@ -140,7 +135,7 @@ I leverage **AI agents** as productivity multipliers to architect solutions and 
 
 ### <img src="./Assets/SerenityEcho.svg" width="24" align="center" /> &nbsp;[SerenityEcho](https://github.com/NaveenAkalanka/SerenityEcho)
 
-<img src="./Assets/serenityecho_terminal.gif" width="100%" alt="SerenityEcho Terminal" />
+<img src="./Assets/serenityecho_term.gif" width="100%" alt="SerenityEcho Terminal" />
 
 </td>
 </tr>

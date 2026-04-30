@@ -27,7 +27,7 @@
   <tr>
     <td bgcolor="#0D1117" style="border: 1px solid #00B4D8; border-radius: 12px;">
       <div style="padding: 12px; background-color: #161B22; border-radius: 10px 10px 0 0; border-bottom: 1px solid #1F2937;">
-        &nbsp;🔴 🟡 🟢 &nbsp;&nbsp; <b><code>terminal — naveen@infrastructure — 80x24</code></b>
+        &nbsp;🔴 🟡 🟢 &nbsp;&nbsp; <b><code>terminal — naveen@infrastructure — 100x30</code></b>
       </div>
       <div style="padding: 25px;">
         <img src="https://raw.githubusercontent.com/NaveenAkalanka/NaveenAkalanka/main/Assets/profile_animation.svg" alt="Animated Profile Terminal" width="100%" />

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Inside the lab</title>
+  <desc id="desc">A continuous practice: design, test, harden. Virtual machines and containers, networking and failure modes, automation and documentation.</desc>
+  <rect x="1" y="1" width="1198" height="218" rx="12" fill="#f6f9fb" stroke="#cedbe3"/>
+  <g fill="none" stroke="#87a8b6" stroke-width="1.5"><path d="M78 56H1122M78 48V64M1122 48V64"/><path d="M395 100V180M795 100V180" stroke="#cedbe3"/></g>
+  <g fill="#087d92"><circle cx="64" cy="56" r="5"/><circle cx="440" cy="56" r="5"/><circle cx="840" cy="56" r="5"/></g>
+  <g fill="#182b3b" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="600"><text x="48" y="117">01 / Design</text><text x="424" y="117">02 / Test</text><text x="824" y="117">03 / Harden</text></g>
+  <g fill="#435d6e" font-family="Segoe UI,Arial,sans-serif" font-size="20"><text x="48" y="155">Virtual machines &amp; containers</text><text x="424" y="155">Networks &amp; failure modes</text><text x="824" y="155">Automate &amp; document</text></g>
+  <g fill="#4e6a7a" font-family="Consolas,monospace" font-size="13" letter-spacing="1"><text x="48" y="189">UNDERSTAND THE FOUNDATION</text><text x="424" y="189">FIND THE LIMITS</text><text x="824" y="189">MAKE THE NEXT RUN BETTER</text></g>
+</svg>

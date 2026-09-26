@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img" aria-labelledby="title desc">
+  <title id="title">Naveen Akalanka — Systems Lab</title>
+  <desc id="desc">Infrastructure, cloud and automation. Sri Lanka.</desc>
+  <rect x="1" y="1" width="598" height="338" rx="14" fill="#f6f9fb" stroke="#cedbe3"/>
+  <path d="M32 47H54" stroke="#087d92" stroke-width="3"/>
+  <text x="68" y="53" fill="#4e6a7a" font-family="Consolas,monospace" font-size="19" letter-spacing="2">SYSTEMS LAB</text>
+  <g fill="none" stroke="#87a8b6" stroke-width="2"><path d="M472 48h74v69h-37v41h-37"/><circle cx="472" cy="48" r="6"/><circle cx="472" cy="158" r="6"/><rect x="509" y="92" width="48" height="28" rx="5"/></g>
+  <g fill="#182b3b" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="650" letter-spacing="-2"><text x="30" y="131">Naveen</text><text x="30" y="201">Akalanka<tspan fill="#087d92">.</tspan></text></g>
+  <text x="32" y="252" fill="#435d6e" font-family="Segoe UI,Arial,sans-serif" font-size="24">Infrastructure, cloud &amp; automation.</text>
+  <text x="32" y="306" fill="#4e6a7a" font-family="Consolas,monospace" font-size="18" letter-spacing="1">SRI LANKA · SELF-HOSTED</text>
+</svg>

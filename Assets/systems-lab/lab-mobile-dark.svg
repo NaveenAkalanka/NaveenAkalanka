@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="410" viewBox="0 0 600 410" role="img" aria-labelledby="title desc">
+  <title id="title">Inside the lab</title>
+  <desc id="desc">Design with virtual machines and containers. Test networks and failure modes. Harden through automation and documentation.</desc>
+  <rect x="1" y="1" width="598" height="408" rx="12" fill="#0d1117" stroke="#293846"/>
+  <path d="M40 58V332" stroke="#365768" stroke-width="2"/>
+  <g fill="#59c7d8"><circle cx="40" cy="58" r="5"/><circle cx="40" cy="187" r="5"/><circle cx="40" cy="316" r="5"/></g>
+  <g fill="#edf3f8" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="600"><text x="76" y="68">01 / Design</text><text x="76" y="197">02 / Test</text><text x="76" y="326">03 / Harden</text></g>
+  <g fill="#a9becb" font-family="Segoe UI,Arial,sans-serif" font-size="25"><text x="76" y="108">Virtual machines &amp; containers</text><text x="76" y="237">Networks &amp; failure modes</text><text x="76" y="366">Automate &amp; document</text></g>
+</svg>

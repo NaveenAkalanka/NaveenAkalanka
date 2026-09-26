@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Naveen Akalanka — Systems Lab</title>
+  <desc id="desc">Infrastructure, cloud and automation. A fine-line illustration connects a server to cloud and automation nodes.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#d6e1e7" stroke-width=".6"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="16" fill="#f6f9fb"/>
+  <rect x="684" y="1" width="515" height="378" rx="16" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="378" rx="15" fill="none" stroke="#cedbe3"/>
+  <path d="M48 57H76" stroke="#087d92" stroke-width="3"/>
+  <text x="88" y="62" fill="#4e6a7a" font-family="Consolas,monospace" font-size="15" letter-spacing="3">SYSTEMS LAB / NAVEEN</text>
+  <g fill="#182b3b" font-family="Segoe UI,Arial,sans-serif" font-size="65" font-weight="650" letter-spacing="-2">
+    <text x="45" y="156">Naveen</text>
+    <text x="45" y="230">Akalanka<tspan fill="#087d92">.</tspan></text>
+  </g>
+  <text x="48" y="282" fill="#435d6e" font-family="Segoe UI,Arial,sans-serif" font-size="23">Infrastructure, cloud &amp; automation.</text>
+  <text x="48" y="337" fill="#4e6a7a" font-family="Consolas,monospace" font-size="13" letter-spacing="2">SRI LANKA · SELF-HOSTED · OPEN SOURCE</text>
+  <g fill="none" stroke="#87a8b6" stroke-width="1.5">
+    <path d="M763 191H725V110H797M948 105H1027V195H982M905 240V294H1000M777 205H747V305H820"/>
+    <path d="M860 135V103H902M982 211H1090V277M841 240V276"/>
+    <circle cx="887" cy="186" r="118" stroke="#c7dce4"/>
+    <circle cx="887" cy="186" r="145" stroke="#d6e1e7" stroke-dasharray="3 9"/>
+  </g>
+  <g fill="#edf4f7" stroke="#6a92a3" stroke-width="1.5">
+    <rect x="790" y="138" width="190" height="104" rx="10"/>
+    <rect x="813" y="159" width="144" height="28" rx="4"/>
+    <rect x="813" y="195" width="144" height="28" rx="4"/>
+    <rect x="788" y="71" width="80" height="54" rx="8"/>
+    <rect x="984" y="269" width="75" height="50" rx="8"/>
+  </g>
+  <g fill="none" stroke="#087d92" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M831 89l-9 9 9 9m11-18 9 9-9 9"/>
+    <path d="M920 110h35a14 14 0 0 0 1-28 21 21 0 0 0-40-2 15 15 0 0 0 4 30Z" fill="#edf4f7"/>
+    <path d="M1007 284h29m-29 10h29m-29 10h18M913 173h28m-28 36h28"/>
+  </g>
+  <g fill="#087d92"><circle cx="828" cy="173" r="3"/><circle cx="828" cy="209" r="3"/><circle cx="725" cy="110" r="4"/><circle cx="1090" cy="277" r="4"/><circle cx="820" cy="305" r="4"/></g>
+  <text x="886" y="344" text-anchor="middle" fill="#4e6a7a" font-family="Consolas,monospace" font-size="12" letter-spacing="2">DESIGN / BUILD / UNDERSTAND</text>
+</svg>

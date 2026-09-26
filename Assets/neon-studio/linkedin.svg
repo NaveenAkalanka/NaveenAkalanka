@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="54" viewBox="0 0 260 54" role="img" aria-label="LET’S CONNECT  ↗"><style>
+text{font-family:Segoe UI,Arial,sans-serif} .flow{stroke-dasharray:9 19;animation:flow 4s linear infinite} .pulse{animation:pulse 4s ease-in-out infinite} .orbit{transform-origin:center;transform-box:fill-box;animation:orbit 24s linear infinite}
+@keyframes flow{to{stroke-dashoffset:-112}} @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}} @keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.flow,.pulse,.orbit{animation:none}}
+</style><rect x="1" y="1" width="258" height="52" rx="12" fill="#111c30" stroke="#42e8e0"/><circle cx="23" cy="27" r="4" fill="#42e8e0"/><text x="43" y="34" font-size="17" font-weight="600" fill="#42e8e0">LET’S CONNECT  ↗</text></svg>

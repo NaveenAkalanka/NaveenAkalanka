@@ -1,105 +1,195 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./Assets/systems-lab/header-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./Assets/systems-lab/header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./Assets/systems-lab/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./Assets/systems-lab/header-light.svg">
-  <img src="./Assets/systems-lab/header-dark.svg" width="100%" alt="Naveen Akalanka — Systems Lab. Infrastructure, cloud and automation.">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./Assets/neon-studio/hero-mobile-v1-still.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./Assets/neon-studio/hero-v1-still.png">
+  <source media="(max-width: 600px)" srcset="./Assets/neon-studio/hero-mobile-v1.gif">
+  <img src="./Assets/neon-studio/hero-v1.gif" width="100%" alt="Naveen Akalanka — Infrastructure, Cloud, Automation. Building tools for the systems I run.">
 </picture>
 
-# I build tools for the systems I run.
+<p align="center">
+  <b>Infrastructure engineer · Linux & networking · Cloud & DevOps · Agentic engineering</b>
+</p>
 
-I’m **Naveen Akalanka**, an infrastructure engineer based in Sri Lanka. I started in networking and kept going deeper into Linux, virtualization, and self-hosted systems. Today, I’m building toward cloud and DevOps, with a focus on Azure, AWS, infrastructure as code, and automation.
+<p align="center">
+  <a href="https://www.linkedin.com/in/naveen-akalanka"><img src="./Assets/neon-studio/linkedin.svg" width="180" height="38" alt="Connect on LinkedIn"></a>
+  &nbsp;
+  <a href="https://github.com/NaveenAkalanka?tab=repositories"><img src="./Assets/neon-studio/repos.svg" width="180" height="38" alt="Explore my repositories"></a>
+</p>
 
-My home lab is where I test ideas, break things, and learn how to make them resilient. When the right tool doesn’t exist, I build it.
+## A little about me
 
-[Connect on LinkedIn](https://www.linkedin.com/in/naveen-akalanka) · [Explore my repositories](https://github.com/NaveenAkalanka?tab=repositories)
+I’m **Naveen**, an infrastructure engineer from **Sri Lanka**. I started in networking and kept going deeper into Linux, virtualization, and self-hosted systems. My focus now spans **Azure, AWS, infrastructure as code, and automation**.
 
-## Selected work
+My Proxmox home lab is where I test ideas, break things, and learn how to make them resilient. When the right tool doesn’t exist, I build it. A background in graphic and 3D design shapes how those tools look and feel, too.
 
-### <img src="./Assets/ScanEye.svg" width="28" height="24" alt=""> &nbsp; [ScanEye](https://github.com/NaveenAkalanka/ScanEye)
+<img src="./Assets/neon-studio/divider.svg" width="100%" height="24" alt="">
 
-**A browser-based view into your local network.**
+## Things I’ve built
 
-<a href="https://github.com/NaveenAkalanka/ScanEye"><img src="./Assets/Banners/ScanEye.png" width="100%" alt="ScanEye artwork: a radar at the center of a connected network."></a>
+A mix of infrastructure tools, visual experiments, and everyday problems turned into software.
 
-Browsers can’t directly scan a local network. ScanEye bridges that gap with a Docker-based backend, Nmap discovery, and live results streamed to a React dashboard over WebSockets.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Docker` `Nmap` `Node.js` `React` `WebSockets`
+<a href="https://github.com/NaveenAkalanka/ScanEye"><img src="./Assets/neon-studio/scaneye.webp" width="100%" alt="ScanEye — glowing radar and network connections"></a>
 
-[Explore ScanEye →](https://github.com/NaveenAkalanka/ScanEye)
+### <img src="./Assets/ScanEye.svg" width="25" height="24" alt=""> [ScanEye](https://github.com/NaveenAkalanka/ScanEye)
 
----
+**Your network, brought into view.**
 
-### <img src="./Assets/NuxView.svg" width="24" height="24" alt=""> &nbsp; [NuxView](https://github.com/NaveenAkalanka/NuxView)
+Nmap discovery in Docker, with live results streamed to a browser dashboard.
 
-**Make sense of the Linux filesystem.** An interactive directory viewer that scans local folders and turns their structure into a visual web interface for exploration and learning.
+`Docker` `Nmap` `React` `WebSockets`
+
+[Explore the project →](https://github.com/NaveenAkalanka/ScanEye)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/NaveenAkalanka/NuxView"><img src="./Assets/neon-studio/nuxview.webp" width="100%" alt="NuxView project artwork"></a>
+
+### <img src="./Assets/NuxView.svg" width="24" height="24" alt=""> [NuxView](https://github.com/NaveenAkalanka/NuxView)
+
+**Find your way around Linux.**
+
+Explore local directories through an interactive visual web interface.
 
 `TypeScript` `Node.js` `React` `Linux`
 
-### <img src="./Assets/ClusterEye.svg" width="24" height="24" alt=""> &nbsp; [ClusterEye](https://github.com/NaveenAkalanka/ClusterEye)
+[Explore the project →](https://github.com/NaveenAkalanka/NuxView)
 
-**See what’s happening across a cluster.** A monitoring and management dashboard, and the earlier project that led me toward ScanEye’s containerized approach.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/NaveenAkalanka/ClusterEye"><img src="./Assets/neon-studio/clustereye.webp" width="100%" alt="ClusterEye project artwork"></a>
+
+### <img src="./Assets/ClusterEye.svg" width="24" height="24" alt=""> [ClusterEye](https://github.com/NaveenAkalanka/ClusterEye)
+
+**A closer look at your cluster.**
+
+A monitoring and management dashboard that helped shape my approach to ScanEye.
 
 `JavaScript` `Node.js` `Docker`
 
-### <img src="./Assets/PoseFit.svg" width="24" height="24" alt=""> &nbsp; [PoseFit V2](https://github.com/NaveenAkalanka/PoseFit-V2)
+[Explore the project →](https://github.com/NaveenAkalanka/ClusterEye)
 
-**Explore movement beyond a fixed camera angle.** A framework for body-orientation-invariant 3D joint-angle estimation, built around biomechanics and computer vision.
+</td>
+<td width="50%" valign="top">
 
-`JavaScript` `Machine learning` `Computer vision`
+<a href="https://github.com/NaveenAkalanka/PoseFit-V2"><img src="./Assets/neon-studio/posefit.webp" width="100%" alt="PoseFit V2 project artwork"></a>
+
+### <img src="./Assets/PoseFit.svg" width="24" height="24" alt=""> [PoseFit V2](https://github.com/NaveenAkalanka/PoseFit-V2)
+
+**Movement, from a different angle.**
+
+Body-orientation-invariant 3D joint-angle estimation for biomechanics and computer vision.
+
+`JavaScript` `ML` `Computer vision`
+
+[Explore the project →](https://github.com/NaveenAkalanka/PoseFit-V2)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/NaveenAkalanka/ScrollSync"><img src="./Assets/neon-studio/scrollsync.webp" width="100%" alt="ScrollSync project artwork"></a>
+
+### <img src="./Assets/ScrollSync.svg" width="24" height="24" alt=""> [ScrollSync](https://github.com/NaveenAkalanka/ScrollSync)
+
+**Give your hands a break.**
+
+Auto-scroll, smart clicks, and gamepad control for hands-free Chrome browsing.
+
+`JavaScript` `Chrome extension`
+
+[Explore the project →](https://github.com/NaveenAkalanka/ScrollSync)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/NaveenAkalanka/SerenityEcho"><img src="./Assets/neon-studio/serenityecho.webp" width="100%" alt="SerenityEcho project artwork"></a>
+
+### <img src="./Assets/SerenityEcho.svg" width="24" height="24" alt=""> [SerenityEcho](https://github.com/NaveenAkalanka/SerenityEcho)
+
+**A little space to focus.**
+
+A privacy-focused, offline ambient sound mixer. No signups, no cloud dependency.
+
+`TypeScript` `PWA` `Web Audio`
+
+[Explore the project →](https://github.com/NaveenAkalanka/SerenityEcho)
+
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>More things I’ve built</b></summary>
+<summary><b>More from the workshop</b></summary>
 
 | Project | What it does |
 | :--- | :--- |
-| [ScrollSync](https://github.com/NaveenAkalanka/ScrollSync) | Hands-free Chrome browsing with auto-scroll, smart clicks, and gamepad control. |
-| [SerenityEcho](https://github.com/NaveenAkalanka/SerenityEcho) | An offline ambient sound mixer, built for privacy. |
-| [DesignFlow](https://github.com/NaveenAkalanka/DesignFlow) | Outlet design tracking and artwork approvals for an internal workflow. |
-| [MFTrack](https://github.com/NaveenAkalanka/MFTrack) | A personal finance tracker built with React, Vite, and Tailwind. |
+| [DesignFlow](https://github.com/NaveenAkalanka/DesignFlow) | Outlet design tracking and artwork approvals. |
+| [MFTrack](https://github.com/NaveenAkalanka/MFTrack) | A personal finance tracker with React, Vite, and Tailwind. |
 | [KokoMate](https://github.com/NaveenAkalanka/KokoMate) | Installment and merchant-fee calculations. |
 | [DailyBurn](https://github.com/NaveenAkalanka/DailyBurn) | A daily tracking utility. |
-| [PoseFit](https://github.com/NaveenAkalanka/PoseFit) | The original vision-based exercise posture-correction project. |
+| [PoseFit](https://github.com/NaveenAkalanka/PoseFit) | My original vision-based exercise posture-correction project. |
 
 </details>
 
-## Inside my lab
+<img src="./Assets/neon-studio/divider.svg" width="100%" height="24" alt="">
 
-My high-availability **Proxmox home lab** is a working environment for experimenting with infrastructure. I use it to explore virtualization, containers, networking, and the decisions that keep services running.
+## My toolkit
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./Assets/systems-lab/lab-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="./Assets/systems-lab/lab-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./Assets/systems-lab/lab-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./Assets/systems-lab/lab-light.svg">
-  <img src="./Assets/systems-lab/lab-dark.svg" width="100%" alt="My lab approach: design a system, test its limits, then harden and document it.">
+  <source media="(max-width: 600px)" srcset="./Assets/neon-studio/stack-mobile.svg">
+  <img src="./Assets/neon-studio/stack.svg" width="100%" alt="Infrastructure: Linux, Proxmox, Docker, Kubernetes. Cloud and automation: Azure, AWS, Ansible, GitHub Actions. Development and design: TypeScript, React, Python, Figma.">
 </picture>
 
-That hands-on work informs how I approach cloud infrastructure: understand the network, know the underlying system, automate repeatable work, and document what I learn.
+**Also in the mix:** LXC · Minikube · TrueNAS · ZFS · Cloudflare · Traefik · n8n · Cisco · Wireshark · JavaScript · Node.js · Graphic & 3D design
 
-## Tools I work with
+## Inside the home lab
 
-| Area | Tools & technologies |
-| :--- | :--- |
-| **Infrastructure & networking** | Linux · Proxmox · LXC · TrueNAS · ZFS · Cisco · DNS / DHCP / VLANs · Nmap · Wireshark |
-| **Cloud & automation** | Azure · AWS · Docker · Kubernetes · Minikube · Ansible · GitHub Actions · Cloudflare · Traefik · n8n |
-| **Development & design** | JavaScript · TypeScript · Python · Node.js · React · WebSockets · Figma · Graphic & 3D design |
+My high-availability **Proxmox lab** is a place to explore systems, test failure modes, and automate the repeatable work.
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./Assets/neon-studio/lab-mobile.svg">
+  <img src="./Assets/neon-studio/lab.svg" width="100%" alt="My lab focus areas: Proxmox virtual machines and LXC; networking, containers and storage; automation with Ansible and workflows.">
+</picture>
+
+The same curiosity carries into my cloud work: understand the network, know what runs underneath, and document what you learn.
+
+<img src="./Assets/neon-studio/divider.svg" width="100%" height="24" alt="">
+
+## A little activity, in motion
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaveenAkalanka/NaveenAkalanka/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaveenAkalanka/NaveenAkalanka/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/NaveenAkalanka/NaveenAkalanka/output/github-contribution-grid-snake-dark.svg" width="100%" alt="An animated snake traversing my GitHub contribution history.">
+</picture>
+
+<sub>Generated from my GitHub contributions by this repository’s scheduled workflow.</sub>
 
 ## Education & recognition
 
-**BSc (Hons) Computer Networks** · University of Wolverhampton<br>
+**🎓 BSc (Hons) Computer Networks** · University of Wolverhampton<br>
 First Class Honours · 2024
 
-Highest Academic Achievement (Batch Top) and Best Dissertation / Research Project awards · October 2025
+**🏆 Highest Academic Achievement (Batch Top)** and **Best Dissertation / Research Project** awards · October 2025
 
-**HND Computing — Networking & Telecommunications** · Pearson<br>
+**🎓 HND Computing — Networking & Telecommunications** · Pearson<br>
 Distinction · 2021–2023
 
-## How I build
+## Building with AI
 
-I use AI agents to explore approaches, speed up implementation, and solve problems I encounter in my work. I own the architecture, review the output, and validate the result. My background in graphic and 3D design also shapes how I think about the tools people use.
+I use AI agents to explore approaches, speed up implementation, and solve problems I encounter in my work. I own the architecture, review the output, and validate the result.
 
----
+<p align="center">
+  <b>Into infrastructure, automation, or building useful things?</b><br>
+  <a href="https://www.linkedin.com/in/naveen-akalanka">Let’s connect on LinkedIn ↗</a>
+</p>
 
-**Building something around infrastructure, automation, or developer tools?**<br>
-[Let’s connect on LinkedIn →](https://www.linkedin.com/in/naveen-akalanka)
+<img src="./Assets/neon-studio/footer.svg" width="100%" alt="Always curious. Always building. Self-hosted, open source, made with purpose.">

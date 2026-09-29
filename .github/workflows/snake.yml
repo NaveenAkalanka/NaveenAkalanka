@@ -1,4 +1,8 @@
-name: Generate Contribution Snake
+name: Refresh Profile Activity
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: false
 
 on:
   schedule:
@@ -13,17 +17,31 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
+      - name: Read Profile Sources
+        uses: actions/checkout@v4
+
+      - name: Build Public Activity Dashboard
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          cp Assets/operations/live/*.svg dist/
+          python3 .github/profile_activity.py --output dist
+
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#b36b00&color_dots=#ebeee5,#cfe5bd,#a0c978,#679f43,#35631c
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffbc57&color_dots=#152016,#30432a,#567e3c,#7bb849,#a6ed72
 
-      - name: Push Snake to Output Branch
+      - name: Publish Profile Graphics
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

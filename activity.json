@@ -1,0 +1,46 @@
+{
+  "user": "NaveenAkalanka",
+  "updated": "2026-10-10 17:04 UTC",
+  "repos": 15,
+  "stars": 1,
+  "followers": 2,
+  "events_sampled": 17,
+  "weeks": [
+    0,
+    0,
+    0,
+    0,
+    14,
+    2,
+    1,
+    0
+  ],
+  "week_labels": [
+    "17 Aug",
+    "24 Aug",
+    "31 Aug",
+    "07 Sep",
+    "14 Sep",
+    "21 Sep",
+    "28 Sep",
+    "05 Oct"
+  ],
+  "languages": {
+    "JavaScript": 8,
+    "TypeScript": 5
+  },
+  "recent": [
+    {
+      "name": "Savit",
+      "pushed": "2026-09-14"
+    },
+    {
+      "name": "lookmd",
+      "pushed": "2026-06-25"
+    },
+    {
+      "name": "ScrollSync",
+      "pushed": "2026-03-03"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "user": "NaveenAkalanka",
+  "updated": "2026-10-24 15:32 UTC",
+  "repos": 16,
+  "stars": 1,
+  "followers": 2,
+  "events_sampled": 12,
+  "weeks": [
+    0,
+    0,
+    0,
+    2,
+    1,
+    0,
+    9,
+    0
+  ],
+  "week_labels": [
+    "31 Aug",
+    "07 Sep",
+    "14 Sep",
+    "21 Sep",
+    "28 Sep",
+    "05 Oct",
+    "12 Oct",
+    "19 Oct"
+  ],
+  "languages": {
+    "JavaScript": 8,
+    "TypeScript": 6
+  },
+  "recent": [
+    {
+      "name": "Playd",
+      "pushed": "2026-10-17"
+    },
+    {
+      "name": "ClusterEye",
+      "pushed": "2026-10-16"
+    },
+    {
+      "name": "Savit",
+      "pushed": "2026-09-14"
+    }
+  ]
+}

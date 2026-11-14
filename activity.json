@@ -1,0 +1,46 @@
+{
+  "user": "NaveenAkalanka",
+  "updated": "2026-11-14 17:44 UTC",
+  "repos": 16,
+  "stars": 1,
+  "followers": 2,
+  "events_sampled": 19,
+  "weeks": [
+    0,
+    0,
+    0,
+    9,
+    0,
+    0,
+    0,
+    10
+  ],
+  "week_labels": [
+    "21 Sep",
+    "28 Sep",
+    "05 Oct",
+    "12 Oct",
+    "19 Oct",
+    "26 Oct",
+    "02 Nov",
+    "09 Nov"
+  ],
+  "languages": {
+    "JavaScript": 8,
+    "TypeScript": 6
+  },
+  "recent": [
+    {
+      "name": "lookmd",
+      "pushed": "2026-11-12"
+    },
+    {
+      "name": "ClusterEye",
+      "pushed": "2026-11-12"
+    },
+    {
+      "name": "ScrollSync",
+      "pushed": "2026-11-12"
+    }
+  ]
+}
